@@ -3,6 +3,7 @@
     "id": "0d679fc8-ae6f-4543-af63-05b45f7a5daf",
     "createdAt": 1756833698475,
     "expiresAt": 1756920098475,
-    "used": true
+    "used": false,
+    "hwid": "null" // null sau "" dacă nu a fost folosit încă
   }
 ]
