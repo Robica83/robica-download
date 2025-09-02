@@ -4,6 +4,7 @@
     "createdAt": 1756833698475,
     "expiresAt": 1756920098475,
     "used": false,
-    "hwid": "null" // null sau "" dacă nu a fost folosit încă
+    "hwid": "null"
   }
 ]
+
