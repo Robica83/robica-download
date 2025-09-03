@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "Paragon-RYoChcUrwD0zhZ8P",
+    "createdAt": 1756910024728,
+    "expiresAt": 1756996424728,
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "robica_sefu",
+    "user": null
+  }
+]
