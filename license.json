@@ -6,5 +6,13 @@
     "used": true,
     "hwid": "DFE0FD95E0B2165D5B37F032B7FA1A5F399943F2F876B0D1D516E0C4B0EDAC95",
     "blacklist": null
+  },
+  {
+    "id": "Paragon-YaMp1wpFshGcu4UD",
+    "createdAt": 1756906250410,
+    "expiresAt": 1756992650410,
+    "used": false,
+    "hwid": null,
+    "blacklist": null
   }
 ]
