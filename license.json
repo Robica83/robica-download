@@ -1,8 +1,8 @@
 [
   {
     "id": "Paragon-I62U7YGtaA7AbEca",
-    "createdAt": 1757073778343,
-    "expiresAt": 1788609778343,
+    "createdAt": "",
+    "expiresAt": "",
     "used": true,
     "hwid": "DFE0FD95E0B2165D5B37F032B7FA1A5F399943F2F876B0D1D516E0C4B0EDAC95",
     "blacklist": null,
@@ -11,12 +11,22 @@
   },
   {
     "id": "Paragon-2yAhW4Opa7WgTX1s",
-    "createdAt": 1757867513146,
-    "expiresAt": 1757953913146,
+    "createdAt": "",
+    "expiresAt": "",
     "used": false,
     "hwid": null,
     "blacklist": null,
     "creator": "robica_sefu",
+    "user": null
+  },
+  {
+    "id": "Paragon-1757868550995495100",
+    "createdAt": "2025-09-14T16:49:10Z",
+    "expiresAt": "2025-09-21T16:49:10Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "DESKTOP-CK76IHD free",
     "user": null
   }
 ]
