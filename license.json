@@ -18,5 +18,15 @@
     "blacklist": null,
     "creator": "DESKTOP-CK76IHD",
     "user": "robica_sefu"
+  },
+  {
+    "id": "ParagonFree-Nrrzh7bXNz",
+    "createdAt": 1758028546774,
+    "expiresAt": 1758633346774,
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "srv-d2s5ulnfte5s739kfoo0-hibernate-5489d44dcd-q4mnt",
+    "user": null
   }
 ]
