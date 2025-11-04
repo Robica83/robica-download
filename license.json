@@ -18,5 +18,15 @@
     "blacklist": null,
     "creator": "robica_sefu",
     "user": "cjez"
+  },
+  {
+    "id": "ParagonFree-07bxErR3Ik",
+    "createdAt": 1762284458653,
+    "expiresAt": 1762889258653,
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "srv-d2s5ulnfte5s739kfoo0-hibernate-6f8447d8bb-dc7dg",
+    "user": null
   }
 ]
