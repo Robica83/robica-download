@@ -1,22 +1,3 @@
 [
-  {
-    "id": null,
-    "createdAt": 0,
-    "expiresAt": 0,
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": null,
-    "user": null
-  },
-  {
-    "id": "Paragon-CQObvCtNGGILldkd",
-    "createdAt": 1763390381110,
-    "expiresAt": 1794926381110,
-    "used": true,
-    "hwid": "DFE0FD95E0B2165D5B37F032B7FA1A5F399943F2F876B0D1D516E0C4B0EDAC95",
-    "blacklist": null,
-    "creator": "robica_sefu",
-    "user": "robica_sefu"
-  }
+
 ]
