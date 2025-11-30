@@ -28,6 +28,7 @@
     "blacklist": null,
     "paused_at": 1764540000,
     "creator": "robica_sefu",
-    "user": null
+    "user": null,
+    "paused": 1764540000000
   }
 ]
