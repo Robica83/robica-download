@@ -5,7 +5,7 @@
     "expiresAt": 1796035320567,
     "used": false,
     "hwid": null,
-    "blacklist": true,
+    "blacklist": false,
     "creator": "robica_sefu",
     "user": "robica_sefu",
     "paused": null
@@ -23,6 +23,7 @@
   }
 
 ]
+
 
 
 
