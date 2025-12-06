@@ -3,8 +3,8 @@
     "id": "Paragon-c2zemATfAoIKCgZO",
     "createdAt": 1764499320567,
     "expiresAt": 1796035320567,
-    "used": false,
-    "hwid": null,
+    "used": true,
+    "hwid": "DFE0FD95E0B2165D5B37F032B7FA1A5F399943F2F876B0D1D516E0C4B0EDAC95",
     "blacklist": false,
     "creator": "robica_sefu",
     "user": "robica_sefu",
@@ -21,6 +21,4 @@
     "user": "david_0082",
     "paused": null
   }
-
 ]
-
