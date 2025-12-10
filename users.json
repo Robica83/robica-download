@@ -1,24 +1,2 @@
 [
-  {
-    "username": "1",
-    "password": "1",
-    "ip_address": "[",
-    "hostname": "DESKTOP-PAD5P1T",
-    "country": "Unknown",
-    "created_at": "2025-12-10T20:04:06.7411134+02:00",
-    "last_login": "2025-12-10T20:04:06.7411134+02:00",
-    "total_logins": 1,
-    "is_active": true
-  },
-  {
-    "username": "1",
-    "password": "1",
-    "ip_address": "[",
-    "hostname": "DESKTOP-PAD5P1T",
-    "country": "Unknown",
-    "created_at": "2025-12-10T20:05:44.387085+02:00",
-    "last_login": "2025-12-10T20:05:44.387085+02:00",
-    "total_logins": 1,
-    "is_active": true
-  }
 ]
