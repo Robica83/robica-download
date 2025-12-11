@@ -9,5 +9,6 @@
     "last_login": "2025-12-10T22:00:45.7944778+02:00",
     "total_logins": 1,
     "is_active": true,
+    "is_owner": true
   }
 ]
