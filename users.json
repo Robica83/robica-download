@@ -1,16 +1,30 @@
 [
   {
+    "username": "Robica",
+    "password": "sefu",
+    "email": "robertcatalin789@gmail.com",
+    "ip_address": "82.76.205.151",
+    "hostname": "srv-d1ctogruibrs73dkcc10-hibernate-c7cf8b897-bdtf2",
     "country": "Romania",
     "created_at": "2025-12-12T22:54:07.427285688Z",
-    "email": "robertcatalin789@gmail.com",
-    "hostname": "srv-d1ctogruibrs73dkcc10-hibernate-c7cf8b897-bdtf2",
-    "ip_address": "82.76.205.151",
-    "is_active": true,
-    "is_licenseactive": "2025-12-13T22:56:12Z",
-    "is_owner": true,
     "last_login": "2025-12-12T22:54:07.427285738Z",
-    "password": "sefu",
     "total_logins": 1,
-    "username": "Robica"
+    "is_active": true,
+    "is_owner": true,
+    "is_licenseactive": "2025-12-13T22:56:12Z"
+  },
+  {
+    "username": "David",
+    "password": "P30arola2009",
+    "email": "daviddanila883@gmail.com",
+    "ip_address": "188.212.194.12",
+    "hostname": "srv-d1ctogruibrs73dkcc10-hibernate-c7cf8b897-bdtf2",
+    "country": "Romania",
+    "created_at": "2025-12-12T23:02:16.083585967Z",
+    "last_login": "2025-12-12T23:02:16.083586027Z",
+    "total_logins": 1,
+    "is_active": true,
+    "is_owner": false,
+    "is_licenseactive": false
   }
 ]
