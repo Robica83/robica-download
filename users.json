@@ -8,6 +8,7 @@
     "created_at": "2025-12-12T14:26:28.768849368Z",
     "last_login": "2025-12-12T14:26:28.768849439Z",
     "total_logins": 1,
-    "is_active": true
+    "is_active": true,
+    "is_owner": true
   }
 ]
