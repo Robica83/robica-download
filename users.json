@@ -1,2 +1,14 @@
 [
+  {
+    "username": "Robica",
+    "password": "sefu",
+    "ip_address": "82.76.205.151",
+    "hostname": "srv-d1ctogruibrs73dkcc10-hibernate-5dbbf5cd78-b67xg",
+    "country": "Romania",
+    "created_at": "2025-12-12T14:36:30.683690763Z",
+    "last_login": "2025-12-12T14:36:30.683690833Z",
+    "total_logins": 1,
+    "is_active": true,
+    "is_owner": false
+  }
 ]
