@@ -12,5 +12,22 @@
     "is_active": true,
     "is_owner": false,
     "is_licenseactive": "false"
+  },
+]
+
+[
+  {
+    "username": "Robica",
+    "password": "sefu",
+    "email": "robertcatalin789@gmail.com",
+    "ip_address": "86.125.253.209",
+    "hostname": "srv-d1ctogruibrs73dkcc10-hibernate-5895f444c-xqlvw",
+    "country": "Romania",
+    "created_at": "2025-12-15T16:07:36.886999796Z",
+    "last_login": "2025-12-15T16:07:36.886999856Z",
+    "total_logins": 1,
+    "is_active": true,
+    "is_owner": true,
+    "is_licenseactive": "false"
   }
 ]
