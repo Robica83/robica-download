@@ -10,7 +10,7 @@
     "last_login": "2025-12-15T16:44:05.940840131Z",
     "total_logins": 1,
     "is_active": true,
-    "is_owner": false,
+    "is_owner": true,
     "is_licenseactive": "false"
   }
 ]
