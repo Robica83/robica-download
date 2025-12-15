@@ -1,2 +1,16 @@
 [
+  {
+    "username": "Robica",
+    "password": "sefu",
+    "email": "robertcatalin789@gmail.com",
+    "ip_address": "86.125.253.209",
+    "hostname": "srv-d1ctogruibrs73dkcc10-hibernate-fd67975cb-wwhv5",
+    "country": "Romania",
+    "created_at": "2025-12-15T16:44:05.940840051Z",
+    "last_login": "2025-12-15T16:44:05.940840131Z",
+    "total_logins": 1,
+    "is_active": true,
+    "is_owner": false,
+    "is_licenseactive": "false"
+  }
 ]
