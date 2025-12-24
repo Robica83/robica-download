@@ -6,9 +6,9 @@
     "used": true,
     "hwid": "DFE0FD95E0B2165D5B37F032B7FA1A5F399943F2F876B0D1D516E0C4B0EDAC95",
     "blacklist": false,
+    "paused": null,
     "creator": "robica_sefu",
-    "user": "robica_sefu",
-    "paused": null
+    "user": "robica_sefu"
   },
   {
     "id": "Paragon-fKe5Md5XBUr4538z",
@@ -17,9 +17,19 @@
     "used": true,
     "hwid": "1043C451625964EB77427C04AAF431740F8C8DE23536D8F93B37398DDE03D9EE",
     "blacklist": null,
+    "paused": null,
     "creator": "robica_sefu",
-    "user": "david_0082",
-    "paused": null
+    "user": "david_0082"
+  },
+  {
+    "id": "ParagonFree-osrbgs2fn3",
+    "createdAt": 1766569337402,
+    "expiresAt": 1767174137402,
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "paused": null,
+    "creator": "srv-d2s5ulnfte5s739kfoo0-hibernate-6dd588fcb5-ft99t",
+    "user": null
   }
-
 ]
