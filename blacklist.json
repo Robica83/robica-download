@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "ip": "127.0.0.1",
+        "reason": "Localhost test",
+        "banned_at": "2024-01-20T12:00:00Z",
+        "banned_by": "admin"
+    },
+    {
+        "ip": "::1",
+        "reason": "IPv6 localhost",
+        "banned_at": "2024-01-20T12:00:00Z", 
+        "banned_by": "admin"
+    }
+]
