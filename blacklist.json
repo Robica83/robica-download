@@ -1,14 +1,1 @@
-[
-    {
-        "ip": "[::1]",
-        "reason": "Your IP is blocked for testing. This shows the blacklist page!",
-        "banned_at": "2024-01-20T12:00:00Z",
-        "banned_by": "admin"
-    },
-    {
-        "ip": "127.0.0.1",
-        "reason": "IPv4 localhost also blocked",
-        "banned_at": "2024-01-20T12:00:00Z",
-        "banned_by": "admin"
-    }
-]
+
