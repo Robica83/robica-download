@@ -7,7 +7,7 @@
     "ip_address": "86.125.253.209",
     "is_active": true,
     "is_licenseactive": "2125-11-30T16:46:38+02:00",
-    "is_owner": false,
+    "is_owner": true,
     "last_login": "2025-12-15T16:44:05.940840131Z",
     "password": "sefu",
     "total_logins": 1,
