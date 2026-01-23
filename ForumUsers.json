@@ -10,7 +10,8 @@
     "status": "online",
     "badges": [
       "owner",
-      "founder"
+      "founder",
+      "warned"
     ]
   }
 ]
