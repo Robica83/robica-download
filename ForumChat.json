@@ -1,19 +1,6 @@
 {
   "messages": [
     {
-      "id": "1769184569512861200k94aIs",
-      "userId": "admin_1769184569512861200dBkugg",
-      "username": "admin",
-      "role": "owner",
-      "content": "Welcome to the Paragon Systems community chat! Feel free to introduce yourself and ask questions.",
-      "timestamp": "2026-01-23T18:09:29.5128612+02:00",
-      "pinned": false,
-      "badges": [
-        "owner",
-        "founder"
-      ]
-    },
-    {
       "id": "1769184670982002400GtkyuL",
       "userId": "admin_1769184569512861200dBkugg",
       "username": "admin",
