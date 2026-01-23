@@ -25,6 +25,19 @@
         "owner",
         "founder"
       ]
+    },
+    {
+      "id": "1769187179890380400fxMWae",
+      "userId": "admin_1769186965777807900mNnoB0",
+      "username": "admin",
+      "role": "owner",
+      "content": "salut",
+      "timestamp": "2026-01-23T18:52:59.8903804+02:00",
+      "pinned": false,
+      "badges": [
+        "owner",
+        "founder"
+      ]
     }
   ],
   "pinned": null
