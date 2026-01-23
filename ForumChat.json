@@ -38,6 +38,20 @@
         "owner",
         "founder"
       ]
+    },
+    {
+      "id": "1769186417951074900DBo6hv",
+      "userId": "admin_1769186256305552300vqH87I",
+      "username": "admin",
+      "role": "owner",
+      "content": "da",
+      "timestamp": "2026-01-23T18:40:17.9510749+02:00",
+      "pinned": false,
+      "badges": [
+        "owner",
+        "founder",
+        "warned"
+      ]
     }
   ],
   "pinned": null
