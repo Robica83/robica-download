@@ -1,16 +1,1 @@
-[
-  {
-    "id": "admin_1769185067975901100uFjQvI",
-    "username": "admin",
-    "password_hash": "$2a$10$o3pVQI3j.y4P4OKxSxS5J.1GpXwCBRHs0qFx.ND3Aw3fugzmFbuoy",
-    "role": "owner",
-    "created_at": "2026-01-23T18:17:47.9759011+02:00",
-    "last_seen": "2026-01-23T18:17:47.9759011+02:00",
-    "avatar_color": "#FF6B6B",
-    "status": "online",
-    "badges": [
-      "owner",
-      "founder"
-    ]
-  }
-]
+[]
