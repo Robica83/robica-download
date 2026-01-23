@@ -38,6 +38,18 @@
         "owner",
         "founder"
       ]
+    },
+    {
+      "id": "1769186486387830500J05EYr",
+      "userId": "1769186476267289500y1m54v",
+      "username": "Robica",
+      "role": "user",
+      "content": "Da",
+      "timestamp": "2026-01-23T18:41:26.3878305+02:00",
+      "pinned": false,
+      "badges": [
+        "new"
+      ]
     }
   ],
   "pinned": null
