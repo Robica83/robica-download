@@ -20,24 +20,12 @@
       "role": "owner",
       "content": "Salut",
       "timestamp": "2026-01-23T18:11:10.9820024+02:00",
-      "pinned": true,
+      "pinned": false,
       "badges": [
         "owner",
         "founder"
       ]
     }
   ],
-  "pinned": {
-    "id": "1769184670982002400GtkyuL",
-    "userId": "admin_1769184569512861200dBkugg",
-    "username": "admin",
-    "role": "owner",
-    "content": "Salut",
-    "timestamp": "2026-01-23T18:11:10.9820024+02:00",
-    "pinned": true,
-    "badges": [
-      "owner",
-      "founder"
-    ]
-  }
+  "pinned": null
 }
