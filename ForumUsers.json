@@ -1,30 +1,16 @@
 [
   {
-    "id": "admin_1769186256305552300vqH87I",
+    "id": "admin_1769186965777807900mNnoB0",
     "username": "admin",
-    "password_hash": "$2a$10$Gk7DA2cuZ4nbHCb/9/H52OluTBLnmoDM2PqS8B4DsJqHjQ6VL7TNy",
+    "password_hash": "$2a$10$1Fj9dYRHrCP/IF9AeNSoT.kp8DG8vk6qgfAXYrgDF3arW9dq25o9O",
     "role": "owner",
-    "created_at": "2026-01-23T18:37:36.3055523+02:00",
-    "last_seen": "2026-01-23T18:38:31.3151793+02:00",
-    "avatar_color": "#FF6B6B",
-    "status": "offline",
-    "badges": [
-      "owner",
-      "founder",
-      "warned"
-    ]
-  },
-  {
-    "id": "1769186476267289500y1m54v",
-    "username": "Robica",
-    "password_hash": "$2a$10$dHVuDF/cmxFwxNxTSJjtIeRfv6p2ZNVT8.x5ur3/4eTOfGzSDwIsC",
-    "role": "user",
-    "created_at": "2026-01-23T18:41:16.2672895+02:00",
-    "last_seen": "2026-01-23T18:41:16.2672895+02:00",
+    "created_at": "2026-01-23T18:49:25.7778079+02:00",
+    "last_seen": "2026-01-23T18:49:25.7778079+02:00",
     "avatar_color": "#FF6B6B",
     "status": "online",
     "badges": [
-      "new"
+      "owner",
+      "founder"
     ]
   }
 ]
