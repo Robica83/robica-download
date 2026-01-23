@@ -5,9 +5,9 @@
     "password_hash": "$2a$10$y7XLlY1ICnteFYKRnnnayOBol4nJt/f6nlZGJXtMVAJlIPzmJFrhW",
     "role": "owner",
     "created_at": "2026-01-23T19:22:45.6217209+02:00",
-    "last_seen": "2026-01-23T19:23:48.1649875+02:00",
+    "last_seen": "2026-01-23T19:24:33.3035902+02:00",
     "avatar_color": "#FF6B6B",
-    "status": "offline",
+    "status": "online",
     "badges": [
       "owner",
       "founder"
