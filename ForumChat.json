@@ -1,17 +1,4 @@
 {
-  "messages": [
-    {
-      "id": "1769184850861598900BQb7HF",
-      "userId": "1769184826871365400kG8OMb",
-      "username": "Robica",
-      "role": "user",
-      "content": "Salut",
-      "timestamp": "2026-01-23T18:14:10.8615989+02:00",
-      "pinned": false,
-      "badges": [
-        "new"
-      ]
-    }
-  ],
+  "messages": [],
   "pinned": null
 }
