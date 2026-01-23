@@ -43,5 +43,26 @@
     "likes": 0,
     "color": "#4ECDC4",
     "icon": "🚀"
+  },
+  {
+    "id": "1769181466771637100s84vpr",
+    "title": "suck me69",
+    "content": "test",
+    "author_id": "admin_1769181395924427600H9RaRs",
+    "author": "admin",
+    "author_role": "owner",
+    "type": "update",
+    "category": "Updates",
+    "tags": [
+      "Updates @Users"
+    ],
+    "created_at": "2026-01-23T17:17:46.7716371+02:00",
+    "updated_at": "2026-01-23T17:17:46.7716371+02:00",
+    "views": 0,
+    "replies": 0,
+    "pinned": true,
+    "likes": 0,
+    "color": "#4ECDC4",
+    "icon": "🔄"
   }
 ]
