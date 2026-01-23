@@ -1,4 +1,18 @@
 {
-  "messages": [],
+  "messages": [
+    {
+      "id": "1769184190305339800xh94qY",
+      "userId": "admin_1769183702822271900pu2Tdk",
+      "username": "admin",
+      "role": "user",
+      "content": "Salut",
+      "timestamp": "2026-01-23T18:03:10.3053398+02:00",
+      "pinned": false,
+      "badges": [
+        "owner",
+        "founder"
+      ]
+    }
+  ],
   "pinned": null
 }
