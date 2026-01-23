@@ -23,6 +23,7 @@
     "status": "offline",
     "badges": [
       "new",
+      "warned",
       "warned"
     ]
   }
