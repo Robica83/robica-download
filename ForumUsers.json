@@ -23,7 +23,8 @@
     "avatar_color": "#FF6B6B",
     "status": "offline",
     "badges": [
-      "new"
+      "new",
+      "warned"
     ]
   }
 ]
