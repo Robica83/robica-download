@@ -12,5 +12,18 @@
       "owner",
       "founder"
     ]
+  },
+  {
+    "id": "17691872508997263009b37YN",
+    "username": "Robica",
+    "password_hash": "$2a$10$HNL.q4hbQSvERNS1kTtcr.jQrQl4bWSCFnaebDTwGlgF9ycwQa2uS",
+    "role": "user",
+    "created_at": "2026-01-23T18:54:10.8997263+02:00",
+    "last_seen": "2026-01-23T18:54:10.8997263+02:00",
+    "avatar_color": "#FF6B6B",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
