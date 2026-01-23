@@ -12,6 +12,16 @@
         "owner",
         "founder"
       ]
+    },
+    {
+      "id": "1769183738217076500gOZhGa",
+      "userId": "admin_1769183411746052200LZl8qi",
+      "username": "admin",
+      "role": "owner",
+      "content": "da",
+      "timestamp": "2026-01-23T17:55:38.2170765+02:00",
+      "pinned": false,
+      "badges": null
     }
   ],
   "pinned": null
