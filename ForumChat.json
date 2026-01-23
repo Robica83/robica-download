@@ -102,6 +102,19 @@
         "owner",
         "founder"
       ]
+    },
+    {
+      "id": "1769188490125276300HHQ1aw",
+      "userId": "admin_1769186965777807900mNnoB0",
+      "username": "admin",
+      "role": "developer",
+      "content": "da",
+      "timestamp": "2026-01-23T19:14:50.1252763+02:00",
+      "pinned": false,
+      "badges": [
+        "owner",
+        "founder"
+      ]
     }
   ],
   "pinned": null
