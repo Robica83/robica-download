@@ -1,0 +1,16 @@
+[
+  {
+    "id": "admin_1769180779695380000LhFmfz",
+    "username": "admin",
+    "password_hash": "$2a$10$F01jQbI3UaOOoppXC4CifOJjTdfcV2Y68jVNdUNPlY0JnUsx7ZDz2",
+    "role": "owner",
+    "created_at": "2026-01-23T17:06:19.69538+02:00",
+    "last_seen": "2026-01-23T17:06:19.69538+02:00",
+    "avatar_color": "#FF6B6B",
+    "status": "online",
+    "badges": [
+      "owner",
+      "founder"
+    ]
+  }
+]
