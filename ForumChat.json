@@ -50,6 +50,19 @@
       "badges": [
         "new"
       ]
+    },
+    {
+      "id": "17691883790426541004myt0n",
+      "userId": "admin_1769186965777807900mNnoB0",
+      "username": "admin",
+      "role": "developer",
+      "content": "da",
+      "timestamp": "2026-01-23T19:12:59.0426541+02:00",
+      "pinned": false,
+      "badges": [
+        "owner",
+        "founder"
+      ]
     }
   ],
   "pinned": null
