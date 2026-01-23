@@ -28,25 +28,6 @@
         "warned",
         "warned"
       ]
-    },
-    {
-      "id": "1769184750431088200S1CwC2",
-      "userId": "admin_1769184569512861200dBkugg",
-      "username": "admin",
-      "role": "owner",
-      "content": "tEST",
-      "timestamp": "2026-01-23T18:12:30.4310882+02:00",
-      "pinned": false,
-      "badges": [
-        "owner",
-        "founder",
-        "warned",
-        "warned",
-        "warned",
-        "warned",
-        "warned",
-        "warned"
-      ]
     }
   ],
   "pinned": null
