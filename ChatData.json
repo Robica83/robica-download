@@ -1,31 +1,4 @@
 {
-  "messages": [
-    {
-      "id": "1769183474839201500acVnce",
-      "userId": "admin_1769183411746052200LZl8qi",
-      "username": "admin",
-      "role": "owner",
-      "content": "salut",
-      "timestamp": "2026-01-23T17:51:14.8392015+02:00",
-      "pinned": false,
-      "badges": [
-        "owner",
-        "founder"
-      ]
-    },
-    {
-      "id": "17691838360429820004LXQjy",
-      "userId": "admin_1769183702822271900pu2Tdk",
-      "username": "admin",
-      "role": "owner",
-      "content": "da",
-      "timestamp": "2026-01-23T17:57:16.042982+02:00",
-      "pinned": false,
-      "badges": [
-        "owner",
-        "founder"
-      ]
-    }
-  ],
+  "messages": [],
   "pinned": null
 }
