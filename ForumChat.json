@@ -12,22 +12,6 @@
         "owner",
         "founder"
       ]
-    },
-    {
-      "id": "1769184720540074200yeoqv6",
-      "userId": "admin_1769184569512861200dBkugg",
-      "username": "admin",
-      "role": "owner",
-      "content": "dadadadaadadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
-      "timestamp": "2026-01-23T18:12:00.5400742+02:00",
-      "pinned": false,
-      "badges": [
-        "owner",
-        "founder",
-        "warned",
-        "warned",
-        "warned"
-      ]
     }
   ],
   "pinned": null
