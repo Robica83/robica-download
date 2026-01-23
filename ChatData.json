@@ -1,18 +1,4 @@
 {
-  "messages": [
-    {
-      "id": "1769183853613783500VsLx3H",
-      "userId": "admin_1769183702822271900pu2Tdk",
-      "username": "admin",
-      "role": "owner",
-      "content": "da",
-      "timestamp": "2026-01-23T17:57:33.6137835+02:00",
-      "pinned": false,
-      "badges": [
-        "owner",
-        "founder"
-      ]
-    }
-  ],
+  "messages": [],
   "pinned": null
 }
