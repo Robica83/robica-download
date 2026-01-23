@@ -59,5 +59,34 @@
     "color": "#4ECDC4",
     "icon": "🚀",
     "read_by": []
+  },
+  {
+    "id": "17692108339879594002d9Gda",
+    "title": "test",
+    "content": "dadada",
+    "author_id": "admin_1769210416076579800YlhG42",
+    "author": "admin",
+    "author_role": "owner",
+    "type": "announcement",
+    "category": "Announcements",
+    "tags": [],
+    "role_tags": [
+      "owner",
+      "admin",
+      "developer",
+      "staff",
+      "moderator",
+      "premium",
+      "user"
+    ],
+    "created_at": "2026-01-24T01:27:13.9879594+02:00",
+    "updated_at": "2026-01-24T01:27:13.9879594+02:00",
+    "views": 0,
+    "replies": 0,
+    "pinned": true,
+    "likes": 0,
+    "color": "#FF6B6B",
+    "icon": "📢",
+    "read_by": []
   }
 ]
