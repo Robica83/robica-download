@@ -1,32 +1,16 @@
 [
   {
-    "id": "admin_17691852696491192001cuuRk",
+    "id": "admin_1769186256305552300vqH87I",
     "username": "admin",
-    "password_hash": "$2a$10$2VLs9qp.H7L5Y2lY0MOlgeKyrH159hM02iPTn2/tqPt9WiHD1XrMy",
+    "password_hash": "$2a$10$Gk7DA2cuZ4nbHCb/9/H52OluTBLnmoDM2PqS8B4DsJqHjQ6VL7TNy",
     "role": "owner",
-    "created_at": "2026-01-23T18:21:09.6491192+02:00",
-    "last_seen": "2026-01-23T18:24:23.6132152+02:00",
+    "created_at": "2026-01-23T18:37:36.3055523+02:00",
+    "last_seen": "2026-01-23T18:37:36.3055523+02:00",
     "avatar_color": "#FF6B6B",
-    "status": "offline",
+    "status": "online",
     "badges": [
       "owner",
       "founder"
-    ]
-  },
-  {
-    "id": "1769185405314891700mzGuUa",
-    "username": "Robica",
-    "password_hash": "$2a$10$t2ydmapCf3Gv2PqZexQVAepHrOzyAUxFDfpYXXKv/H8nMeincvItS",
-    "role": "premium",
-    "created_at": "2026-01-23T18:23:25.3148917+02:00",
-    "last_seen": "2026-01-23T18:26:44.7341192+02:00",
-    "avatar_color": "#06D6A0",
-    "status": "offline",
-    "badges": [
-      "new",
-      "warned",
-      "warned",
-      "warned"
     ]
   }
 ]
