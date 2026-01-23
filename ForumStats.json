@@ -1,9 +1,9 @@
 {
   "total_users": 2,
-  "total_posts": 2,
-  "total_topics": 1,
+  "total_posts": 4,
+  "total_topics": 3,
   "online_users": 1,
   "new_users_24h": 0,
-  "new_posts_24h": 0,
-  "active_today": 1
+  "new_posts_24h": 1,
+  "active_today": 0
 }
