@@ -1,11 +1,11 @@
 [
   {
-    "id": "admin_1769189989920050600eQHkF6",
+    "id": "admin_1769190095625004600lnQwt0",
     "username": "admin",
-    "password_hash": "$2a$10$cT/8Zhc7VNzVDySg3NJKL.asNB5ilx29eIlTqcaGhphEl1hrOnrpC",
+    "password_hash": "$2a$10$zb9kVHXjcBAOMLN1pJ7vlOw6/dGm6h8umxlmtYyk.w5vIAWGmOzHu",
     "role": "owner",
-    "created_at": "2026-01-23T19:39:49.9200506+02:00",
-    "last_seen": "2026-01-23T19:39:49.9200506+02:00",
+    "created_at": "2026-01-23T19:41:35.6250046+02:00",
+    "last_seen": "2026-01-23T19:41:35.6250046+02:00",
     "avatar_color": "#FF6B6B",
     "status": "online",
     "badges": [
