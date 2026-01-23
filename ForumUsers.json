@@ -1,29 +1,16 @@
 [
   {
-    "id": "admin_1769183702822271900pu2Tdk",
+    "id": "admin_1769184569512861200dBkugg",
     "username": "admin",
-    "password_hash": "$2a$10$VdtiDiwAO.mTY/39JtqyBuQWfzz5O2Z7tlb2MZVW8.XRtBJW/bs/6",
-    "role": "user",
-    "created_at": "2026-01-23T17:55:02.8222719+02:00",
-    "last_seen": "2026-01-23T18:04:47.3574805+02:00",
+    "password_hash": "$2a$10$ONSd3oRd/ZjV4z4QmMvg6.Yn/LFsMC6eKrO1QMRekI2qQc2E0VDFi",
+    "role": "owner",
+    "created_at": "2026-01-23T18:09:29.5128612+02:00",
+    "last_seen": "2026-01-23T18:09:29.5128612+02:00",
     "avatar_color": "#FF6B6B",
     "status": "online",
     "badges": [
       "owner",
       "founder"
-    ]
-  },
-  {
-    "id": "1769183879758540400tXLakn",
-    "username": "Robica",
-    "password_hash": "$2a$10$MQolmH9tSzvz5BcUVvtC0.0wou/7mnW05MPRxAukiSZC218XxaYfe",
-    "role": "owner",
-    "created_at": "2026-01-23T17:57:59.7585404+02:00",
-    "last_seen": "2026-01-23T17:57:59.7585404+02:00",
-    "avatar_color": "#FFD166",
-    "status": "online",
-    "badges": [
-      "new"
     ]
   }
 ]
