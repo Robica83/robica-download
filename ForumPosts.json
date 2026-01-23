@@ -1,9 +1,9 @@
 [
   {
-    "id": "1769181699612347300vNcb6D",
+    "id": "17691817760161406003nkV6G",
     "title": "Welcome to Paragon Systems Forum!",
     "content": "Welcome everyone to the official Paragon Systems community forum! Here you can discuss, get support, and stay updated with the latest news about our CS2 enhancement software.",
-    "author_id": "admin_1769181699612347300PTngDr",
+    "author_id": "admin_1769181776016140600CCpU5g",
     "author": "admin",
     "author_role": "owner",
     "type": "announcement",
@@ -12,8 +12,8 @@
       "welcome",
       "important"
     ],
-    "created_at": "2026-01-23T17:21:39.6123473+02:00",
-    "updated_at": "2026-01-23T17:21:39.6123473+02:00",
+    "created_at": "2026-01-23T17:22:56.0161406+02:00",
+    "updated_at": "2026-01-23T17:22:56.0161406+02:00",
     "views": 0,
     "replies": 0,
     "pinned": true,
@@ -22,10 +22,10 @@
     "icon": "🎉"
   },
   {
-    "id": "1769181699612347300HOAB1l",
+    "id": "1769181776016140600eHpXwC",
     "title": "Version 2.0.0 Released",
     "content": "We're excited to announce the release of Paragon Systems v2.0.0! This major update includes:\n\n• New improved ESP system\n• Enhanced anti-detection\n• Better performance optimization\n• Customizable UI themes\n\nUpdate now through your dashboard!",
-    "author_id": "admin_1769181699612347300PTngDr",
+    "author_id": "admin_1769181776016140600CCpU5g",
     "author": "admin",
     "author_role": "owner",
     "type": "update",
@@ -35,8 +35,8 @@
       "release",
       "new"
     ],
-    "created_at": "2026-01-23T17:21:39.6123473+02:00",
-    "updated_at": "2026-01-23T17:21:39.6123473+02:00",
+    "created_at": "2026-01-23T17:22:56.0161406+02:00",
+    "updated_at": "2026-01-23T17:22:56.0161406+02:00",
     "views": 0,
     "replies": 0,
     "pinned": true,
