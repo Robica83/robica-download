@@ -1,41 +1,4 @@
 {
-  "messages": [
-    {
-      "id": "1769273672913340300yG7YiF",
-      "userId": "admin_1769273642407142000CvMwyz",
-      "username": "admin",
-      "role": "owner",
-      "content": "test",
-      "timestamp": "2026-01-24T18:54:32.9133403+02:00",
-      "pinned": false,
-      "badges": [
-        "founder"
-      ]
-    },
-    {
-      "id": "1769273676326567700JEeLb6",
-      "userId": "admin_1769273642407142000CvMwyz",
-      "username": "admin",
-      "role": "owner",
-      "content": "da",
-      "timestamp": "2026-01-24T18:54:36.3265677+02:00",
-      "pinned": false,
-      "badges": [
-        "founder"
-      ]
-    },
-    {
-      "id": "1769273863469953900ghF9o0",
-      "userId": "admin_1769273642407142000CvMwyz",
-      "username": "admin",
-      "role": "owner",
-      "content": "salut",
-      "timestamp": "2026-01-24T18:57:43.4699539+02:00",
-      "pinned": false,
-      "badges": [
-        "founder"
-      ]
-    }
-  ],
+  "messages": [],
   "pinned": null
 }
