@@ -23,8 +23,9 @@
     "avatar_color": "#7209B7",
     "status": "offline",
     "badges": [
-      "new"
+      "new",
+      "premium"
     ],
-    "premium_until": null
+    "premium_until": "2026-01-24T18:01:42.9049849+02:00"
   }
 ]
