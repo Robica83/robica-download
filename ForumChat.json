@@ -59,6 +59,18 @@
       "badges": [
         "founder"
       ]
+    },
+    {
+      "id": "17692736837949532003rU8Nw",
+      "userId": "admin_1769273642407142000CvMwyz",
+      "username": "admin",
+      "role": "owner",
+      "content": "da",
+      "timestamp": "2026-01-24T18:54:43.7949532+02:00",
+      "pinned": false,
+      "badges": [
+        "founder"
+      ]
     }
   ],
   "pinned": null
