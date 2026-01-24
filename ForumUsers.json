@@ -18,9 +18,9 @@
     "password_hash": "$2a$10$2bYDIHiQMK6HSKzzFgfuru1o/ulHehDX5s1N7HlvvUO4HDwtLePQa",
     "role": "user",
     "created_at": "2026-01-24T01:22:26.4395442+02:00",
-    "last_seen": "2026-01-24T01:22:26.4395442+02:00",
+    "last_seen": "2026-01-24T02:37:09.967379+02:00",
     "avatar_color": "#FF6B6B",
-    "status": "offline",
+    "status": "online",
     "badges": [
       "new",
       "warned",
