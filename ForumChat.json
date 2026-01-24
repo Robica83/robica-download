@@ -11,6 +11,18 @@
       "badges": [
         "founder"
       ]
+    },
+    {
+      "id": "1769273672913340300yG7YiF",
+      "userId": "admin_1769273642407142000CvMwyz",
+      "username": "admin",
+      "role": "owner",
+      "content": "test",
+      "timestamp": "2026-01-24T18:54:32.9133403+02:00",
+      "pinned": false,
+      "badges": [
+        "founder"
+      ]
     }
   ],
   "pinned": null
