@@ -1,36 +1,24 @@
 [
   {
     "id": "Paragon-c2zemATfAoIKCgZO",
-    "createdAt": 1764499320567,
-    "expiresAt": 1796035320567,
-    "used": true,
-    "hwid": "DFE0FD95E0B2165D5B37F032B7FA1A5F399943F2F876B0D1D516E0C4B0EDAC95",
-    "blacklist": false,
-    "creator": "robica_sefu",
-    "user": "robica_sefu",
-    "paused": null
-  },
-  {
-    "id": "Paragon-fKe5Md5XBUr4538z",
-    "createdAt": 1765050282746,
-    "expiresAt": 1796586282746,
-    "used": true,
-    "hwid": "1043C451625964EB77427C04AAF431740F8C8DE23536D8F93B37398DDE03D9EE",
-    "blacklist": null,
-    "creator": "robica_sefu",
-    "user": "david_0082",
-    "paused": null
-  },
-  {
-    "id": "ParagonFree-osrbgs2fn3",
-    "createdAt": 1766569337402,
-    "expiresAt": 1767174137402,
+    "createdAt": "0001-01-01T00:00:00Z",
+    "expiresAt": "0001-01-01T00:00:00Z",
     "used": false,
     "hwid": null,
     "blacklist": null,
-    "creator": "srv-d2s5ulnfte5s739kfoo0-hibernate-6dd588fcb5-ft99t",
+    "creator": "",
     "user": null,
     "paused": null
+  },
+  {
+    "id": "Paragon-PR8TX5NLBB",
+    "createdAt": "2026-01-24T20:18:32.0942935+02:00",
+    "expiresAt": "2026-01-31T20:18:32.0942935+02:00",
+    "used": true,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "admin_1769278448849703300T0dZXp",
+    "user": "1769278617111289100ZVs3uq",
+    "paused": null
   }
-
 ]
