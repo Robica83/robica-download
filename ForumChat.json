@@ -12,6 +12,19 @@
         "founder",
         "premium"
       ]
+    },
+    {
+      "id": "1769271712481780300o4aDJt",
+      "userId": "admin_1769271603577451700D34Iwn",
+      "username": "admin",
+      "role": "owner",
+      "content": "Da",
+      "timestamp": "2026-01-24T18:21:52.4817803+02:00",
+      "pinned": false,
+      "badges": [
+        "founder",
+        "premium"
+      ]
     }
   ],
   "pinned": null
