@@ -7,22 +7,11 @@
       "role": "owner",
       "content": "Welcome to the Paragon Systems community chat! Feel free to introduce yourself and ask questions.",
       "timestamp": "2026-01-24T19:08:47.4722137+02:00",
-      "pinned": true,
+      "pinned": false,
       "badges": [
         "founder"
       ]
     }
   ],
-  "pinned": {
-    "id": "17692745274722137001Zg414",
-    "userId": "admin_1769274527472213700BQdc2B",
-    "username": "admin",
-    "role": "owner",
-    "content": "Welcome to the Paragon Systems community chat! Feel free to introduce yourself and ask questions.",
-    "timestamp": "2026-01-24T19:08:47.4722137+02:00",
-    "pinned": true,
-    "badges": [
-      "founder"
-    ]
-  }
+  "pinned": null
 }
