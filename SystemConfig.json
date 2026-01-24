@@ -1,7 +1,7 @@
 {
-  "version": "2.0",
-  "maintenance": true,
+  "version": "1.O",
+  "maintenance": false,
   "maintenance_msg": "Update for the last game",
-  "last_update": "2026-01-24T02:32:45.1573723+02:00",
+  "last_update": "2026-01-24T02:47:35.65294+02:00",
   "download_url": "https://github.com/Robica83/robica-download/blob/main/Paragon%20Systems.exe"
 }
