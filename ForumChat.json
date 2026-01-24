@@ -1,41 +1,28 @@
 {
   "messages": [
     {
-      "id": "1769265685616029200AntcuD",
-      "userId": "admin_1769265685616029200v0fuMY",
+      "id": "1769268692006482400H8p5aX",
+      "userId": "admin_17692686920064824008MQQ4S",
       "username": "admin",
       "role": "owner",
       "content": "Welcome to the Paragon Systems community chat! Feel free to introduce yourself and ask questions.",
-      "timestamp": "2026-01-24T16:41:25.6160292+02:00",
-      "pinned": false,
-      "badges": [
-        "founder"
-      ]
-    },
-    {
-      "id": "1769266075716222500J5A10G",
-      "userId": "admin_1769265685616029200v0fuMY",
-      "username": "admin",
-      "role": "owner",
-      "content": "salut",
-      "timestamp": "2026-01-24T16:47:55.7162225+02:00",
-      "pinned": false,
-      "badges": [
-        "founder"
-      ]
-    },
-    {
-      "id": "1769266870309250200pfroBm",
-      "userId": "admin_1769265685616029200v0fuMY",
-      "username": "admin",
-      "role": "owner",
-      "content": "dad",
-      "timestamp": "2026-01-24T17:01:10.3092502+02:00",
-      "pinned": false,
+      "timestamp": "2026-01-24T17:31:32.0064824+02:00",
+      "pinned": true,
       "badges": [
         "founder"
       ]
     }
   ],
-  "pinned": null
+  "pinned": {
+    "id": "1769268692006482400H8p5aX",
+    "userId": "admin_17692686920064824008MQQ4S",
+    "username": "admin",
+    "role": "owner",
+    "content": "Welcome to the Paragon Systems community chat! Feel free to introduce yourself and ask questions.",
+    "timestamp": "2026-01-24T17:31:32.0064824+02:00",
+    "pinned": true,
+    "badges": [
+      "founder"
+    ]
+  }
 }
