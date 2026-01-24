@@ -13,16 +13,5 @@
       ]
     }
   ],
-  "pinned": {
-    "id": "1769272656783349800sTrcfR",
-    "userId": "admin_1769272656783349800mEoZ7i",
-    "username": "admin",
-    "role": "owner",
-    "content": "Welcome to the Paragon Systems community chat! Feel free to introduce yourself and ask questions.",
-    "timestamp": "2026-01-24T18:37:36.7833498+02:00",
-    "pinned": true,
-    "badges": [
-      "founder"
-    ]
-  }
+  "pinned": null
 }
