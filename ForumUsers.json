@@ -19,7 +19,7 @@
     "id": "1769274607795960100PhxMq0",
     "username": "Robica",
     "password_hash": "$2a$10$YOUg0vHeM376DBZZZQhtxOSdJP.jnieQ4irt8MSrFQX9ORQgqwpU.",
-    "role": "user",
+    "role": "premium",
     "created_at": "2026-01-24T19:10:07.7959601+02:00",
     "last_seen": "2026-01-24T19:10:07.7959601+02:00",
     "avatar_color": "#FF6B6B",
@@ -27,8 +27,10 @@
     "badges": [
       "new"
     ],
-    "premium_role": "",
-    "premium_expires_at": "0001-01-01T00:00:00Z",
-    "roles_history": null
+    "premium_role": "premium",
+    "premium_expires_at": "2026-01-31T19:10:52.1156485+02:00",
+    "roles_history": [
+      "user"
+    ]
   }
 ]
