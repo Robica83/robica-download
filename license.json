@@ -1,1 +1,13 @@
-
+[
+  {
+    "id": "Paragon-OV23NQ6TP0",
+    "createdAt": "2026-01-24T20:44:51.3689889+02:00",
+    "expiresAt": "2026-01-31T20:44:51.3689889+02:00",
+    "used": true,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "admin_1769280212967326400VXUJc5",
+    "user": "1769280264895321100RcKgD3",
+    "paused": null
+  }
+]
