@@ -1,11 +1,13 @@
 {
   "Paragon-42ZO6N1K5H": {
     "id": "Paragon-42ZO6N1K5H",
-    "createdAt": 1769338138545,
-    "expiresAt": 1772534937239,
-    "used": true,
-    "hwid": "DFE0FD95E0B2165D5B37F032B7FA1A5F399943F2F876B0D1D516E0C4B0EDAC95",
+    "createdAt": "2026-01-25T12:48:58.5451615+02:00",
+    "expiresAt": "2026-03-03T12:48:57.2390312+02:00",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
     "creator": "admin_1769337890692769100deRXOh",
-    "user": "robica_sefu"
+    "user": null,
+    "paused": null
   }
 }
