@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_msg": "System is undergoing maintenance. Please check back later.",
-  "last_update": "2026-01-25T14:32:23.342586326Z",
+  "last_update": "2026-01-25T14:33:39.502207215Z",
   "download_url": "https://raw.githubusercontent.com/Robica83/robica-download/main/Paragon%20Systems.exe"
 }
