@@ -12,11 +12,11 @@
       "founder"
     ],
     "premium": {
-      "has_premium": false,
-      "given_by": "",
-      "given_at": "0001-01-01T00:00:00Z",
-      "expires_at": "0001-01-01T00:00:00Z",
-      "license_key": ""
+      "has_premium": true,
+      "given_by": "admin_1769335569365527900ytp11V",
+      "given_at": "2026-01-25T12:14:55.4939624+02:00",
+      "expires_at": "2026-02-01T12:14:55.4939624+02:00",
+      "license_key": "Paragon-9RDDQTR64D"
     }
   },
   {
@@ -33,10 +33,8 @@
     ],
     "premium": {
       "has_premium": false,
-      "given_by": "",
       "given_at": "0001-01-01T00:00:00Z",
-      "expires_at": "0001-01-01T00:00:00Z",
-      "license_key": ""
+      "expires_at": "0001-01-01T00:00:00Z"
     }
   }
 ]
