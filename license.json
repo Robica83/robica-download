@@ -9,5 +9,16 @@
     "creator": "admin_1769336322925147300eorMpW",
     "user": null,
     "paused": null
+  },
+  "Paragon-H79UK8LB7L": {
+    "id": "Paragon-H79UK8LB7L",
+    "createdAt": "2026-01-25T12:22:29.4460212+02:00",
+    "expiresAt": "2026-02-01T12:22:29.2415142+02:00",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "admin_1769336322925147300eorMpW",
+    "user": null,
+    "paused": null
   }
 }
