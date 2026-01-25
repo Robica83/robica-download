@@ -1,1 +1,13 @@
-[]
+{
+  "Paragon-DGGQ759TR6": {
+    "id": "Paragon-DGGQ759TR6",
+    "createdAt": "2026-01-25T12:35:27.6646356+02:00",
+    "expiresAt": "2026-02-01T12:35:27.4706101+02:00",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "admin_1769337264452822100yyl6n5",
+    "user": null,
+    "paused": null
+  }
+}
