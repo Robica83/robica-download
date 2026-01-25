@@ -1,1 +1,13 @@
-
+{
+  "Paragon-2N1O6UVY5F": {
+    "id": "Paragon-2N1O6UVY5F",
+    "createdAt": "2026-01-25T14:36:53.515375701Z",
+    "expiresAt": "2026-02-01T14:36:52.857681122Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  }
+}
