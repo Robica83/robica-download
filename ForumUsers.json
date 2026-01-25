@@ -1,13 +1,13 @@
 [
   {
-    "id": "Robica_1769337890692769100deRXOh",
-    "username": "Robica",
+    "id": "admin_1769337890692769100deRXOh",
+    "username": "admin",
     "password_hash": "$2a$10$v5r82G/qoQhWa6cn3VXDH.RTNEPxnfOGhlJu6xgf.INqDkrO6NKEi",
     "role": "owner",
     "created_at": "2026-01-25T12:44:50.6927691+02:00",
     "last_seen": "2026-01-25T15:27:06.9435145+02:00",
     "avatar_color": "#16171a",
-    "status": "online",
+    "status": "offline",
     "badges": [
       "founder"
     ]
