@@ -20,5 +20,16 @@
     "creator": "admin_1769337264452822100yyl6n5",
     "user": null,
     "paused": null
+  },
+  "Paragon-XFONK1TEKX": {
+    "id": "Paragon-XFONK1TEKX",
+    "createdAt": "2026-01-25T12:36:39.5452225+02:00",
+    "expiresAt": "2026-02-01T12:36:39.3403439+02:00",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "admin_1769337264452822100yyl6n5",
+    "user": null,
+    "paused": null
   }
 }
