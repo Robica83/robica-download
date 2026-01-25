@@ -11,5 +11,18 @@
     "badges": [
       "founder"
     ]
+  },
+  {
+    "id": "1769337288125732400UShq8l",
+    "username": "Robica",
+    "password_hash": "$2a$10$zW2PDhGnbSYOFw0gE.5bi.f/QYv5SAILRXSETiFHXPkPOMoaMb9ZO",
+    "role": "user",
+    "created_at": "2026-01-25T12:34:48.1257324+02:00",
+    "last_seen": "2026-01-25T12:34:48.1257324+02:00",
+    "avatar_color": "#06D6A0",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
