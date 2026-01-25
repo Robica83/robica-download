@@ -12,11 +12,9 @@
       "founder"
     ],
     "premium": {
-      "has_premium": true,
-      "given_by": "admin_1769336322925147300eorMpW",
-      "given_at": "2026-01-25T12:19:55.4786034+02:00",
-      "expires_at": "2026-02-01T12:19:55.4786034+02:00",
-      "license_key": "Paragon-94XKCCXYH1"
+      "has_premium": false,
+      "given_at": "0001-01-01T00:00:00Z",
+      "expires_at": "0001-01-01T00:00:00Z"
     }
   },
   {
