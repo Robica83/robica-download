@@ -1,1 +1,13 @@
-
+{
+  "Paragon-SRIL74Q1S3": {
+    "id": "Paragon-SRIL74Q1S3",
+    "createdAt": "2026-01-25T12:17:19.002644+02:00",
+    "expiresAt": "2026-02-01T12:17:18.6547932+02:00",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "admin_1769335569365527900ytp11V",
+    "user": null,
+    "paused": null
+  }
+}
