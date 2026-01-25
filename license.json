@@ -1,1 +1,13 @@
-
+{
+  "Paragon-CX9NFXHGO0": {
+    "id": "Paragon-CX9NFXHGO0",
+    "createdAt": "2026-01-25T12:45:51.0074812+02:00",
+    "expiresAt": "2026-02-01T12:45:50.1151951+02:00",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "admin_1769337890692769100deRXOh",
+    "user": null,
+    "paused": null
+  }
+}
