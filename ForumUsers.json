@@ -18,5 +18,18 @@
       "expires_at": "2026-02-01T14:36:52.857681122Z",
       "license_key": "Paragon-2N1O6UVY5F"
     }
+  },
+  {
+    "id": "1769525208157933604E8Tfu0",
+    "username": "Pericoboss",
+    "password_hash": "$2a$10$L2HhNify3iCYZY8F1QJnVeaa6W1XgyaVND/A1RvPwwxPoF/cZit6i",
+    "role": "user",
+    "created_at": "2026-01-27T14:46:48.157939935Z",
+    "last_seen": "2026-01-27T14:46:48.157939985Z",
+    "avatar_color": "#3A0CA3",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
