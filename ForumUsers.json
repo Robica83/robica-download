@@ -51,5 +51,18 @@
       "expires_at": "2026-09-05T22:14:39.27984286Z",
       "license_key": "Paragon-GAH2DJG8N1"
     }
+  },
+  {
+    "id": "1770502845830963537e7YwLX",
+    "username": "Gab1",
+    "password_hash": "$2a$10$f9CROYYNrMgoFCLR.N2Ql.PKFMSsEbI4PdpUwTJE7IDfFH5GxIysC",
+    "role": "user",
+    "created_at": "2026-02-07T22:20:45.830969307Z",
+    "last_seen": "2026-02-07T22:20:45.830969398Z",
+    "avatar_color": "#4ECDC4",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
