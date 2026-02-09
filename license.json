@@ -1,8 +1,8 @@
 {
   "Paragon-2N1O6UVY5F": {
     "id": "Paragon-2N1O6UVY5F",
-    "createdAt": "2026-01-25T14:36:53.5153757+00:00",
-    "expiresAt": "2026-03-03T14:36:52.8576811+00:00",
+    "createdAt": "2026-01-25T14:36:53.5153757Z",
+    "expiresAt": "2026-03-03T14:36:52.8576811Z",
     "used": true,
     "hwid": "DFE0FD95E0B2165D5B37F032B7FA1A5F399943F2F876B0D1D516E0C4B0EDAC95",
     "blacklist": null,
@@ -12,24 +12,13 @@
   },
   "Paragon-6XTHTOK21L": {
     "id": "Paragon-6XTHTOK21L",
-    "createdAt": "2026-02-08T20:40:37.8300698+00:00",
-    "expiresAt": "2126-01-15T20:40:37.1269421+00:00",
+    "createdAt": "2026-02-08T20:40:37.8300698Z",
+    "expiresAt": "2126-01-15T20:40:37.1269421Z",
     "used": true,
     "hwid": "EFDD3BF63E2B6A4C5FE30D51BAFF2AB3D844F9A3CC690B892CFDCC96ADEE1F89",
     "blacklist": null,
     "creator": "Robica_17693503202124441673w6uWo",
     "user": "_.34.",
-    "paused": null
-  },
-  "Paragon-ZPHT2NA85X": {
-    "id": "Paragon-ZPHT2NA85X",
-    "createdAt": "2026-02-07T22:21:09.0581944+00:00",
-    "expiresAt": "2026-09-05T22:21:08.4110629+00:00",
-    "used": true,
-    "hwid": "6D7F148567C6B575D2B63D7111F9016C87949372DA73CA7994482329EDD137D7",
-    "blacklist": null,
-    "creator": "Robica_17693503202124441673w6uWo",
-    "user": "gab1_15",
     "paused": null
   }
 }
