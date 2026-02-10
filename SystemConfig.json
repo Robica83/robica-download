@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "maintenance": false,
-  "maintenance_msg": "System is undergoing maintenance. Please check back later.",
-  "last_update": "2026-01-25T14:33:49.423328271Z",
+  "maintenance": true,
+  "maintenance_msg": "EDUARD SINDROM SUGE PULA",
+  "last_update": "2026-02-10T20:07:17.273443109Z",
   "download_url": "https://raw.githubusercontent.com/Robica83/robica-download/main/Paragon%20Systems.exe"
 }
