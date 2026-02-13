@@ -20,5 +20,16 @@
     "creator": "Robica_17693503202124441673w6uWo",
     "user": "_.34.",
     "paused": null
+  },
+  "Paragon-OBZXO1B4R4": {
+    "id": "Paragon-OBZXO1B4R4",
+    "createdAt": "2026-02-13T12:38:04.198500359Z",
+    "expiresAt": "2126-01-20T12:38:03.446627006Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
   }
 }
