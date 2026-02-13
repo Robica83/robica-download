@@ -56,7 +56,7 @@
     "id": "1770502845830963537e7YwLX",
     "username": "Gab1",
     "password_hash": "$2a$10$f9CROYYNrMgoFCLR.N2Ql.PKFMSsEbI4PdpUwTJE7IDfFH5GxIysC",
-    "role": "user",
+    "role": "premium",
     "created_at": "2026-02-07T22:20:45.830969307Z",
     "last_seen": "2026-02-07T22:20:45.830969398Z",
     "avatar_color": "#4ECDC4",
@@ -65,9 +65,11 @@
       "new"
     ],
     "premium": {
-      "has_premium": false,
-      "given_at": "0001-01-01T00:00:00Z",
-      "expires_at": "0001-01-01T00:00:00Z"
+      "has_premium": true,
+      "given_by": "Robica_17693503202124441673w6uWo",
+      "given_at": "2026-02-13T12:38:03.446629776Z",
+      "expires_at": "2126-01-20T12:38:03.446627006Z",
+      "license_key": "Paragon-OBZXO1B4R4"
     }
   }
 ]
