@@ -10,6 +10,17 @@
     "user": "robica_sefu",
     "paused": null
   },
+  "Paragon-8A1032WMR8": {
+    "id": "Paragon-8A1032WMR8",
+    "createdAt": "2026-02-13T19:49:45.672182774Z",
+    "expiresAt": "2126-01-20T19:49:44.994278896Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  },
   "Paragon-BPL5I5YU9U": {
     "id": "Paragon-BPL5I5YU9U",
     "createdAt": "2026-02-13T19:49:30.794688533Z",
