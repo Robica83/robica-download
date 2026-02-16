@@ -60,9 +60,10 @@
     "created_at": "2026-02-07T22:20:45.830969307Z",
     "last_seen": "2026-02-07T22:20:45.830969398Z",
     "avatar_color": "#4ECDC4",
-    "status": "online",
+    "status": "banned",
     "badges": [
-      "new"
+      "new",
+      "banned"
     ],
     "premium": {
       "has_premium": true,
