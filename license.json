@@ -21,6 +21,17 @@
     "user": "robica_sefu",
     "paused": null
   },
+  "Paragon-RCQRWS5NJV": {
+    "id": "Paragon-RCQRWS5NJV",
+    "createdAt": "2026-02-19T20:16:02.68127932Z",
+    "expiresAt": "2126-01-26T20:16:01.839140725Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  },
   "Paragon-YYMUP5FWBO": {
     "id": "Paragon-YYMUP5FWBO",
     "createdAt": "2026-02-19T18:18:48.0914762Z",
