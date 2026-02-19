@@ -64,9 +64,9 @@
     "password_hash": "$2a$10$f9CROYYNrMgoFCLR.N2Ql.PKFMSsEbI4PdpUwTJE7IDfFH5GxIysC",
     "role": "premium",
     "created_at": "2026-02-07T22:20:45.830969307Z",
-    "last_seen": "2026-02-07T22:20:45.830969398Z",
+    "last_seen": "2026-02-19T20:22:54.472600054Z",
     "avatar_color": "#4ECDC4",
-    "status": "offline",
+    "status": "online",
     "badges": [
       "new"
     ],
