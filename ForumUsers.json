@@ -82,13 +82,20 @@
     "id": "1771532144079253180Paogt9",
     "username": "Frunzaboss",
     "password_hash": "$2a$10$ccLmoY1Ob3clFJQBGkcvdOLcKspkrwR6.fTFBUwLmQRQQ/VmIT7KC",
-    "role": "user",
+    "role": "premium",
     "created_at": "2026-02-19T20:15:44.079258501Z",
     "last_seen": "2026-02-19T20:15:44.079258551Z",
     "avatar_color": "#7209B7",
     "status": "online",
     "badges": [
       "new"
-    ]
+    ],
+    "premium": {
+      "has_premium": true,
+      "given_by": "Robica_17693503202124441673w6uWo",
+      "given_at": "2026-02-19T20:16:01.839143996Z",
+      "expires_at": "2126-01-26T20:16:01.839140725Z",
+      "license_key": "Paragon-RCQRWS5NJV"
+    }
   }
 ]
