@@ -1,8 +1,19 @@
 {
+  "Paragon-1K7JKE2OCF": {
+    "id": "Paragon-1K7JKE2OCF",
+    "createdAt": "2026-02-19T20:14:43.753352536Z",
+    "expiresAt": "2126-01-26T20:14:42.992546319Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  },
   "Paragon-R78TSRM34G": {
     "id": "Paragon-R78TSRM34G",
-    "createdAt": "2026-02-19T18:19:06.0960152+00:00",
-    "expiresAt": "2126-01-26T18:19:05.3333089+00:00",
+    "createdAt": "2026-02-19T18:19:06.0960152Z",
+    "expiresAt": "2126-01-26T18:19:05.3333089Z",
     "used": true,
     "hwid": "DFE0FD95E0B2165D5B37F032B7FA1A5F399943F2F876B0D1D516E0C4B0EDAC95",
     "blacklist": null,
@@ -12,8 +23,8 @@
   },
   "Paragon-YYMUP5FWBO": {
     "id": "Paragon-YYMUP5FWBO",
-    "createdAt": "2026-02-19T18:18:48.0914762+00:00",
-    "expiresAt": "2126-01-26T18:18:47.3156581+00:00",
+    "createdAt": "2026-02-19T18:18:48.0914762Z",
+    "expiresAt": "2126-01-26T18:18:47.3156581Z",
     "used": true,
     "hwid": "EFDD3BF63E2B6A4C5FE30D51BAFF2AB3D844F9A3CC690B892CFDCC96ADEE1F89",
     "blacklist": null,
