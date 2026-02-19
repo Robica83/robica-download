@@ -20,5 +20,16 @@
     "creator": "Robica_17693503202124441673w6uWo",
     "user": "gab1_15",
     "paused": null
+  },
+  "Paragon-PP1TXME3V3": {
+    "id": "Paragon-PP1TXME3V3",
+    "createdAt": "2026-02-19T16:59:10.490340766Z",
+    "expiresAt": "2126-01-26T16:59:09.650729211Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
   }
 }
