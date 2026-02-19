@@ -2,7 +2,7 @@
   "Paragon-R78TSRM34G": {
     "id": "Paragon-R78TSRM34G",
     "createdAt": "2026-02-19T18:19:06.0960152+00:00",
-    "expiresAt": "2126-01-26T18:19:05.3333089+00:00",
+    "expiresAt": "2000-01-26T18:19:05.3333089+00:00",
     "used": true,
     "hwid": "DFE0FD95E0B2165D5B37F032B7FA1A5F399943F2F876B0D1D516E0C4B0EDAC95",
     "blacklist": null,
@@ -21,4 +21,5 @@
     "user": "_.34.",
     "paused": null
   }
+
 }
