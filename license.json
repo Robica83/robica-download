@@ -1,4 +1,15 @@
 {
+  "Paragon-7E72ZA8Z6W": {
+    "id": "Paragon-7E72ZA8Z6W",
+    "createdAt": "2026-02-19T17:32:31.384865412Z",
+    "expiresAt": "2126-01-26T17:32:30.547495281Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  },
   "Paragon-8A1032WMR8": {
     "id": "Paragon-8A1032WMR8",
     "createdAt": "2026-02-13T19:49:45.6721828Z",
