@@ -77,5 +77,18 @@
       "expires_at": "2126-01-26T20:14:42.992546319Z",
       "license_key": "Paragon-1K7JKE2OCF"
     }
+  },
+  {
+    "id": "1771532144079253180Paogt9",
+    "username": "Frunzaboss",
+    "password_hash": "$2a$10$ccLmoY1Ob3clFJQBGkcvdOLcKspkrwR6.fTFBUwLmQRQQ/VmIT7KC",
+    "role": "user",
+    "created_at": "2026-02-19T20:15:44.079258501Z",
+    "last_seen": "2026-02-19T20:15:44.079258551Z",
+    "avatar_color": "#7209B7",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
