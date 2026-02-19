@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "maintenance": true,
-  "maintenance_msg": "da",
-  "last_update": "2026-02-19T18:17:46.696190988Z",
+  "maintenance": false,
+  "maintenance_msg": "",
+  "last_update": "2026-02-19T18:17:56.301755466Z",
   "download_url": "https://raw.githubusercontent.com/Robica83/robica-download/main/Paragon%20Systems.exe"
 }
