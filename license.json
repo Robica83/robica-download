@@ -1,1 +1,13 @@
-{}
+{
+  "Paragon-YYMUP5FWBO": {
+    "id": "Paragon-YYMUP5FWBO",
+    "createdAt": "2026-02-19T18:18:48.091476201Z",
+    "expiresAt": "2126-01-26T18:18:47.315658088Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  }
+}
