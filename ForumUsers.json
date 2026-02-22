@@ -41,7 +41,7 @@
     "id": "17705024493272858124OJX1R",
     "username": "Edi",
     "password_hash": "$2a$10$uWv2o4gtCS7QTXOFeSG8YOXrJVjN4ImK6t5aFVM2isUrLFO83X9k.",
-    "role": "premium",
+    "role": "user",
     "created_at": "2026-02-07T22:14:09.327291332Z",
     "last_seen": "2026-02-19T17:45:43.640349698Z",
     "avatar_color": "#FFD166",
@@ -51,11 +51,9 @@
       "muted"
     ],
     "premium": {
-      "has_premium": true,
-      "given_by": "Robica_17693503202124441673w6uWo",
-      "given_at": "2026-02-19T18:18:47.315661798Z",
-      "expires_at": "2126-01-26T18:18:47.315658088Z",
-      "license_key": "Paragon-YYMUP5FWBO"
+      "has_premium": false,
+      "given_at": "0001-01-01T00:00:00Z",
+      "expires_at": "0001-01-01T00:00:00Z"
     }
   },
   {
