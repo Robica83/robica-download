@@ -1,4 +1,15 @@
 {
+  "Paragon-0VCYWQ3VN2": {
+    "id": "Paragon-0VCYWQ3VN2",
+    "createdAt": "2026-02-22T21:49:42.278698455Z",
+    "expiresAt": "2126-01-29T21:49:41.665073383Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  },
   "Paragon-NX7EWNGGPN": {
     "id": "Paragon-NX7EWNGGPN",
     "createdAt": "2026-02-21T15:08:54.0596094Z",
