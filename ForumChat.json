@@ -31,24 +31,12 @@
       "role": "premium",
       "content": "hello",
       "timestamp": "2026-02-19T20:21:36.384138683Z",
-      "pinned": true,
+      "pinned": false,
       "badges": [
         "new",
         "muted"
       ]
     }
   ],
-  "pinned": {
-    "id": "17715324963841320335GSLtb",
-    "userId": "17705024493272858124OJX1R",
-    "username": "Edi",
-    "role": "premium",
-    "content": "hello",
-    "timestamp": "2026-02-19T20:21:36.384138683Z",
-    "pinned": true,
-    "badges": [
-      "new",
-      "muted"
-    ]
-  }
+  "pinned": null
 }
