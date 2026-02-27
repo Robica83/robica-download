@@ -97,5 +97,18 @@
       "expires_at": "2126-01-26T20:16:01.839140725Z",
       "license_key": "Paragon-RCQRWS5NJV"
     }
+  },
+  {
+    "id": "17722009728266293686fHUHf",
+    "username": "yeya11111",
+    "password_hash": "$2a$10$/uYsjKjL4bJEHQR2Ci.7TuRjEmeuDqdzS.kCPgmWLGY11cKu9oRnO",
+    "role": "user",
+    "created_at": "2026-02-27T14:02:52.826637199Z",
+    "last_seen": "2026-02-27T14:02:52.826637259Z",
+    "avatar_color": "#FF6B6B",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
