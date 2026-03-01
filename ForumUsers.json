@@ -47,8 +47,7 @@
     "avatar_color": "#FFD166",
     "status": "online",
     "badges": [
-      "new",
-      "muted"
+      "new"
     ],
     "premium": {
       "has_premium": true,
