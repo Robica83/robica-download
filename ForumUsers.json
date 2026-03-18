@@ -114,5 +114,18 @@
       "expires_at": "2026-03-29T14:03:40.554233614Z",
       "license_key": "Paragon-B1JKCJDGQM"
     }
+  },
+  {
+    "id": "1773866238383269084ZPhBnF",
+    "username": "hori222",
+    "password_hash": "$2a$10$IkWnjfNWlLCBNR1SycdWeOGiCZfzxoXWrv0IMclC2Ii29E9To6LOa",
+    "role": "user",
+    "created_at": "2026-03-18T20:37:18.383275384Z",
+    "last_seen": "2026-03-18T20:37:18.383275434Z",
+    "avatar_color": "#118AB2",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
