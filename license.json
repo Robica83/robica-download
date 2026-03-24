@@ -1,3 +1,13 @@
 {
-
+  "Paragon-TCIE4JV87V": {
+    "id": "Paragon-TCIE4JV87V",
+    "createdAt": "2026-03-24T15:47:39.739332553Z",
+    "expiresAt": "2026-03-31T15:47:38.65913591Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  }
 }
