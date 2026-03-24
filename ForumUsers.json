@@ -115,7 +115,7 @@
     "id": "1773866238383269084ZPhBnF",
     "username": "hori222",
     "password_hash": "$2a$10$IkWnjfNWlLCBNR1SycdWeOGiCZfzxoXWrv0IMclC2Ii29E9To6LOa",
-    "role": "user",
+    "role": "premium",
     "created_at": "2026-03-18T20:37:18.383275384Z",
     "last_seen": "2026-03-18T20:37:18.383275434Z",
     "avatar_color": "#118AB2",
@@ -124,9 +124,11 @@
       "new"
     ],
     "premium": {
-      "has_premium": false,
-      "given_at": "0001-01-01T00:00:00Z",
-      "expires_at": "0001-01-01T00:00:00Z"
+      "has_premium": true,
+      "given_by": "Robica_17693503202124441673w6uWo",
+      "given_at": "2026-03-24T18:27:58.57980639Z",
+      "expires_at": "2126-02-28T18:27:58.579803261Z",
+      "license_key": "Paragon-5HYEOG5E6A"
     }
   },
   {
