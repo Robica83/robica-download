@@ -7,7 +7,7 @@
 		"expiresAt" : "2026-03-31T13:36:11.225392293Z",
 		"hwid" : "cbc3863fb6bef8a4",
 		"paused" : 0,
-		"used" : true,
+		"used" : false,
 		"user" : "robica_sefu"
 	}
 }
