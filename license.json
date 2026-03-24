@@ -5,9 +5,9 @@
 		"createdAt" : "2026-03-24T14:05:28.657156107Z",
 		"creator" : "Robica_17693503202124441673w6uWo",
 		"expiresAt" : "2026-03-31T14:05:27.602787253Z",
-		"hwid" : "7a0fc381c5f6b8ee",
+		"hwid" : null,
 		"paused" : 0,
-		"used" : true,
+		"used" : false,
 		"user" : "robica_sefu"
 	}
 }
