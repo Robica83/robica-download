@@ -1,3 +1,13 @@
 {
-
+  "Paragon-3GOH03PM02": {
+    "id": "Paragon-3GOH03PM02",
+    "createdAt": "2026-03-24T13:39:35.921077731Z",
+    "expiresAt": "2026-03-31T13:39:34.870318854Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  }
 }
