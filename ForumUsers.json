@@ -12,9 +12,11 @@
       "founder"
     ],
     "premium": {
-      "has_premium": false,
-      "given_at": "0001-01-01T00:00:00Z",
-      "expires_at": "0001-01-01T00:00:00Z"
+      "has_premium": true,
+      "given_by": "Robica_17693503202124441673w6uWo",
+      "given_at": "2026-03-24T18:07:04.659754873Z",
+      "expires_at": "2126-02-28T18:07:04.659750943Z",
+      "license_key": "Paragon-ADFL73QU4T"
     }
   },
   {
