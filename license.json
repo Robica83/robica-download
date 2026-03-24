@@ -1,1 +1,13 @@
-[]
+{
+  "Paragon-HJYMYF4Y20": {
+    "id": "Paragon-HJYMYF4Y20",
+    "createdAt": "2026-03-24T12:34:16.460766209Z",
+    "expiresAt": "2026-03-31T12:34:15.433706679Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  }
+}
