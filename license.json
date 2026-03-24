@@ -1,13 +1,1 @@
-{
-  "Paragon-ZIBI2VO87Q": {
-    "id": "Paragon-ZIBI2VO87Q",
-    "createdAt": "2026-03-24T13:30:20.108508605Z",
-    "expiresAt": "2026-04-23T13:30:18.758035694Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "Robica_17693503202124441673w6uWo",
-    "user": null,
-    "paused": null
-  }
-}
+{"Paragon-ZIBI2VO87Q":{"createdAt":"","expiresAt":"","used":true,"hwid":"cbc3863fb6bef8a4","blacklist":null,"creator":"","user":"Unknown","paused":null}}
