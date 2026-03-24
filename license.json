@@ -1,24 +1,13 @@
 {
-  "Paragon-8UNCDQNYHC": {
-    "id": "Paragon-8UNCDQNYHC",
-    "createdAt": "2026-03-24T18:26:36.141729784Z",
-    "expiresAt": "2126-02-28T18:26:35.163233123Z",
+  "Paragon-SLDLDKRMY2": {
+    "id": "Paragon-SLDLDKRMY2",
+    "createdAt": "2026-03-24T18:27:15.290014519Z",
+    "expiresAt": "2126-02-28T18:27:14.371570477Z",
     "used": false,
     "hwid": null,
     "blacklist": null,
     "creator": "Robica_17693503202124441673w6uWo",
     "user": null,
     "paused": null
-  },
-  "Paragon-D6MS8LSR12": {
-    "id": "Paragon-D6MS8LSR12",
-    "createdAt": "2026-03-24T17:47:44.43486829Z",
-    "expiresAt": "2126-02-28T17:47:43.446069053Z",
-    "used": true,
-    "hwid": "80691",
-    "blacklist": null,
-    "creator": "Robica_17693503202124441673w6uWo",
-    "user": "robica_sefu",
-    "paused": null
-  },
+  }
 }
