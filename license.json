@@ -1,35 +1,28 @@
 {
-  "Paragon-CMXJEUVOMY": {
-    "id": "Paragon-CMXJEUVOMY",
-    "createdAt": "2026-03-24T18:28:30.329896457Z",
-    "expiresAt": "2126-02-28T18:28:29.168051499Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "Robica_17693503202124441673w6uWo",
-    "user": null,
-    "paused": null
+  "Paragon-CMXJEUVOMY" : 
+  {
+    "createdAt" : "2026-03-24T18:28:30.329896457Z",
+    "creator" : "Robica_17693503202124441673w6uWo",
+    "expiresAt" : "2126-02-28T18:28:29.168051499Z",
+    "id" : "Paragon-CMXJEUVOMY",
+    "used" : false
   },
-  "Paragon-D195EDMYHD": {
-    "id": "Paragon-D195EDMYHD",
-    "createdAt": "2026-03-24T18:28:42.805827108Z",
-    "expiresAt": "2126-02-28T18:28:41.87422252Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "Robica_17693503202124441673w6uWo",
-    "user": null,
-    "paused": null
+  "Paragon-D195EDMYHD" : 
+  {
+    "createdAt" : "2026-03-24T18:28:42.805827108Z",
+    "creator" : "Robica_17693503202124441673w6uWo",
+    "expiresAt" : "2126-02-28T18:28:41.87422252Z",
+    "hwid" : "806d7",
+    "id" : "Paragon-D195EDMYHD",
+    "used" : true,
+    "user" : "2r8x"
   },
-  "Paragon-XRN7P4J539": {
-    "id": "Paragon-XRN7P4J539",
-    "createdAt": "2026-03-24T18:28:55.804410323Z",
-    "expiresAt": "2126-02-28T18:28:54.877482486Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "Robica_17693503202124441673w6uWo",
-    "user": null,
-    "paused": null
+  "Paragon-XRN7P4J539" : 
+  {
+    "createdAt" : "2026-03-24T18:28:55.804410323Z",
+    "creator" : "Robica_17693503202124441673w6uWo",
+    "expiresAt" : "2126-02-28T18:28:54.877482486Z",
+    "id" : "Paragon-XRN7P4J539",
+    "used" : false
   }
 }
