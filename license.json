@@ -1,12 +1,12 @@
 {
 	"Paragon-3GOH03PM02" : 
 	{
-		"blacklist" : false,
+		"blacklist" : null,
 		"createdAt" : "2026-03-24T13:39:35.921077731Z",
 		"creator" : "Robica_17693503202124441673w6uWo",
 		"expiresAt" : "2026-03-31T13:39:34.870318854Z",
 		"hwid" : "FABAF3188CFCE765250C07ABEF6759327C78886254E0337CFE5B694FE5680AC7",
-		"paused" : 0,
+		"paused" : null,
 		"used" : true,
 		"user" : "robica_sefu"
 	}
