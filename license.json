@@ -1,13 +1,11 @@
 {
-  "Paragon-WAAJ4Y45VP": {
-    "id": "Paragon-WAAJ4Y45VP",
-    "createdAt": "2026-03-24T15:39:04.801988815Z",
-    "expiresAt": "2026-03-31T15:39:03.391131982Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "Robica_17693503202124441673w6uWo",
-    "user": null,
-    "paused": null
+  "Paragon-WAAJ4Y45VP" : 
+  {
+    "createdAt" : "2026-03-24T15:39:04.801988815Z",
+    "creator" : "Robica_17693503202124441673w6uWo",
+    "expiresAt" : "2026-03-31T15:39:03.391131982Z",
+    "id" : "Paragon-WAAJ4Y45VP",
+    "used" : false,
+    "user" : "robica_sefu"
   }
 }
