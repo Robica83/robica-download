@@ -1,4 +1,15 @@
 {
+  "Paragon-RGIS0CN0Y7": {
+    "id": "Paragon-RGIS0CN0Y7",
+    "createdAt": "2026-03-24T18:27:38.425342463Z",
+    "expiresAt": "2126-02-28T18:27:37.190596458Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  },
   "Paragon-SLDLDKRMY2": {
     "id": "Paragon-SLDLDKRMY2",
     "createdAt": "2026-03-24T18:27:15.290014519Z",
