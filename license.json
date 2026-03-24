@@ -1,1 +1,13 @@
-{}
+{
+  "Paragon-7TOCBCUIKE": {
+    "id": "Paragon-7TOCBCUIKE",
+    "createdAt": "2026-03-24T13:09:54.105995664Z",
+    "expiresAt": "2026-03-31T13:09:52.843250254Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  }
+}
