@@ -1,2 +1,13 @@
 {
+  "Paragon-XP1BXVYMEB": {
+    "id": "Paragon-XP1BXVYMEB",
+    "createdAt": "2026-03-24T13:27:31.485516675Z",
+    "expiresAt": "2026-03-31T13:27:30.487277882Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
+  }
 }
