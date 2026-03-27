@@ -5,11 +5,11 @@
         "launcher-ver": ["1.0.0.0"],
         "status": "undetected",
         "news-type": 0,
-        "news": "Update new features"
+        "news": "this is new field"
     },
     "metadata": {
         "id": "690e4759ae596e708f4b20b3",
-        "private": false,
+        "private": true,
         "createdAt": "2025-11-07T19:24:09.318Z",
         "name": "Paragon Systems"
     }
