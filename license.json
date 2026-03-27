@@ -4,10 +4,10 @@
     "createdAt": "2026-03-27T13:11:33.116220616Z",
     "expiresAt": "2126-03-03T13:11:32.279058275Z",
     "used": false,
-    "hwid": false,
-    "blacklist": false,
+    "hwid": null,
+    "blacklist": null,
     "creator": "Robica_17693503202124441673w6uWo",
-    "user": false,
-    "paused": false
+    "user": null,
+    "paused": null
   }
 }
