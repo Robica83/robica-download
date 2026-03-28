@@ -89,5 +89,34 @@
       "1770502845830963537e7YwLX",
       "1773866238383269084ZPhBnF"
     ]
+  },
+  {
+    "id": "1774727722112391529RUAHSo",
+    "title": "Version 1.0.2 Released",
+    "content": "---Protection and menu Updates---\n\n• Added Kernel Driver Protection\n• Added New Menu\n\n---Enemy ESP Updates---\n\n• Fixed Bomb Timer\n• Added Sound ESP\n• Added ESP Preview\n\n---Triggerbot Updates---\n\n• Added Stop Check on Triggerbot\n• Added Scope Only on Triggerbot\n• Added Allow Corner Shoot on Triggerbot\n• Added Ignore Flash on Triggerbot\n\n---RCS Feature---\n\n• Added RCS with Yaw and Pitch\n\n---Aimbot Updates---\n\n• Added Start Bullet on Aimbot\n• Added Mini Fov on Aimbot\n• Added Only Auto on Aimbot\n\n---Misc Updates---\n\n• Added Spectator List\n• Added Hit Sound\n• Added Hit Markers\n• Added Bunny Hop\n• Added Fast Stop\n• Added Sniper Crosshair\n• Added Knfie Bot\n• Added Anti-Afk\n• Fixed Streamproof\n\n---Configs Added---\n\n• Config List\n• Config Name\n• Config Author",
+    "author_id": "Robica_17693503202124441673w6uWo",
+    "author": "Robica",
+    "author_role": "owner",
+    "type": "update",
+    "category": "Updates",
+    "tags": [],
+    "role_tags": [
+      "owner",
+      "admin",
+      "developer",
+      "staff",
+      "moderator",
+      "premium",
+      "user"
+    ],
+    "created_at": "2026-03-28T19:55:22.112397509Z",
+    "updated_at": "2026-03-28T19:55:22.112397569Z",
+    "views": 0,
+    "replies": 0,
+    "pinned": true,
+    "likes": 0,
+    "color": "#4ECDC4",
+    "icon": "🔄",
+    "read_by": []
   }
 ]
