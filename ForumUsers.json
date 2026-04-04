@@ -10,7 +10,14 @@
     "status": "online",
     "badges": [
       "founder"
-    ]
+    ],
+    "premium": {
+      "has_premium": true,
+      "given_by": "Robica_1775343541971461400AECHHE",
+      "given_at": "2026-04-05T02:03:53.6457051+03:00",
+      "expires_at": "2126-03-12T01:03:53.6457051+02:00",
+      "license_key": "Paragon-GZVFLFJBFJ"
+    }
   },
   {
     "id": "1775343612894627400VE1sI1",
