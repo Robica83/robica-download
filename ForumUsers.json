@@ -7,7 +7,7 @@
     "created_at": "2026-01-25T14:12:00.212449427Z",
     "last_seen": "2026-04-05T01:38:11.9387785+03:00",
     "avatar_color": "#16171a",
-    "status": "online",
+    "status": "offline",
     "badges": [
       "founder"
     ],
@@ -198,4 +198,30 @@
       "license_key": "Paragon-VCHPPDSFSF"
     }
   },
+  {
+    "id": "1775342031385467000D2yk1O",
+    "username": "123",
+    "password_hash": "$2a$10$/yCcC.H7L1meAC5Jm5DVXeUlYG9zACRoDARZJ6YojO04ZA5dAKyLW",
+    "role": "user",
+    "created_at": "2026-04-05T01:33:51.385467+03:00",
+    "last_seen": "2026-04-05T01:33:51.385467+03:00",
+    "avatar_color": "#F72585",
+    "status": "offline",
+    "badges": [
+      "new"
+    ]
+  },
+  {
+    "id": "1775342250929709000c8LjJE",
+    "username": "123456",
+    "password_hash": "$2a$10$lkONh4z3VGpmAGvP1Zjgre26jkrw48A3Nlr13WFYOt59V1x0CrFk2",
+    "role": "user",
+    "created_at": "2026-04-05T01:37:30.929709+03:00",
+    "last_seen": "2026-04-05T01:37:45.7247813+03:00",
+    "avatar_color": "#FF6B6B",
+    "status": "offline",
+    "badges": [
+      "new"
+    ]
+  }
 ]
