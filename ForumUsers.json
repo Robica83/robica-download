@@ -182,13 +182,20 @@
     "id": "1775304152644546882SSmguO",
     "username": "bark for UwU",
     "password_hash": "$2a$10$2VeuqRPFYXIalxzi4gMibOcfHIlynvzRT.XFB.iACvbkuDKTw3eOG",
-    "role": "user",
+    "role": "premium",
     "created_at": "2026-04-04T12:02:32.644552962Z",
     "last_seen": "2026-04-04T12:02:32.644553302Z",
     "avatar_color": "#F72585",
     "status": "online",
     "badges": [
       "new"
-    ]
+    ],
+    "premium": {
+      "has_premium": true,
+      "given_by": "Robica_17693503202124441673w6uWo",
+      "given_at": "2026-04-04T12:03:47.480837444Z",
+      "expires_at": "2026-05-04T12:03:47.480834954Z",
+      "license_key": "Paragon-VCHPPDSFSF"
+    }
   }
 ]
