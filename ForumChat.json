@@ -1,17 +1,28 @@
 {
   "messages": [
     {
-      "id": "1775343305660136300wIGc5i",
-      "userId": "Robica_177534330566013630055t4FJ",
+      "id": "1775343541971461400ghemHn",
+      "userId": "Robica_1775343541971461400AECHHE",
       "username": "Robica",
       "role": "owner",
       "content": "Welcome to the Paragon Systems community chat! Feel free to introduce yourself and ask questions.",
-      "timestamp": "2026-04-05T01:55:05.6601363+03:00",
-      "pinned": false,
+      "timestamp": "2026-04-05T01:59:01.9714614+03:00",
+      "pinned": true,
       "badges": [
         "founder"
       ]
     }
   ],
-  "pinned": null
+  "pinned": {
+    "id": "1775343541971461400ghemHn",
+    "userId": "Robica_1775343541971461400AECHHE",
+    "username": "Robica",
+    "role": "owner",
+    "content": "Welcome to the Paragon Systems community chat! Feel free to introduce yourself and ask questions.",
+    "timestamp": "2026-04-05T01:59:01.9714614+03:00",
+    "pinned": true,
+    "badges": [
+      "founder"
+    ]
+  }
 }
