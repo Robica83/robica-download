@@ -1,9 +1,9 @@
 [
   {
-    "id": "1775343541971461400vqOuGr",
+    "id": "1775342834169904300oqxswC",
     "title": "Welcome to Paragon Systems Forum!",
     "content": "Welcome everyone to the official Paragon Systems community forum! Here you can discuss, get support, and stay updated with the latest news about our CS2 enhancement software.",
-    "author_id": "Robica_1775343541971461400AECHHE",
+    "author_id": "Robica_1775342834169904300sbgvWa",
     "author": "Robica",
     "author_role": "owner",
     "type": "announcement",
@@ -18,8 +18,8 @@
       "developer",
       "staff"
     ],
-    "created_at": "2026-04-05T01:59:01.9714614+03:00",
-    "updated_at": "2026-04-05T01:59:01.9714614+03:00",
+    "created_at": "2026-04-05T01:47:14.1699043+03:00",
+    "updated_at": "2026-04-05T01:47:14.1699043+03:00",
     "views": 0,
     "replies": 0,
     "pinned": true,
@@ -27,14 +27,14 @@
     "color": "#FF6B6B",
     "icon": "🎉",
     "read_by": [
-      "Robica_1775343541971461400AECHHE"
+      "Robica_1775342834169904300sbgvWa"
     ]
   },
   {
-    "id": "1775343541971461400t93rzW",
+    "id": "1775342834169904300liRWiO",
     "title": "Version 1.0.0 Released",
     "content": "We're excited to announce the release of Paragon Systems v1.0.0! This minor update includes:\n\n• Velocity ESP\n• New Key binds system\n• Better performance optimization\n• Customizable UI Color\n\nDownload New Loader!",
-    "author_id": "Robica_1775343541971461400AECHHE",
+    "author_id": "Robica_1775342834169904300sbgvWa",
     "author": "Robica",
     "author_role": "owner",
     "type": "update",
@@ -50,8 +50,8 @@
       "developer",
       "premium"
     ],
-    "created_at": "2026-04-05T01:59:01.9714614+03:00",
-    "updated_at": "2026-04-05T01:59:01.9714614+03:00",
+    "created_at": "2026-04-05T01:47:14.1699043+03:00",
+    "updated_at": "2026-04-05T01:47:14.1699043+03:00",
     "views": 0,
     "replies": 0,
     "pinned": true,
@@ -59,7 +59,7 @@
     "color": "#4ECDC4",
     "icon": "🚀",
     "read_by": [
-      "Robica_1775343541971461400AECHHE"
+      "Robica_1775342834169904300sbgvWa"
     ]
   }
 ]
