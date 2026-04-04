@@ -20,5 +20,16 @@
     "creator": "Robica_17693503202124441673w6uWo",
     "user": "2r8x",
     "paused": null
+  },
+  "Paragon-VCHPPDSFSF": {
+    "id": "Paragon-VCHPPDSFSF",
+    "createdAt": "2026-04-04T12:03:48.350497839Z",
+    "expiresAt": "2026-05-04T12:03:47.480834954Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_17693503202124441673w6uWo",
+    "user": null,
+    "paused": null
   }
 }
