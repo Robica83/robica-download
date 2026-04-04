@@ -1,9 +1,9 @@
 [
   {
-    "id": "1769350320212450497g3PAcr",
+    "id": "1775342834169904300oqxswC",
     "title": "Welcome to Paragon Systems Forum!",
     "content": "Welcome everyone to the official Paragon Systems community forum! Here you can discuss, get support, and stay updated with the latest news about our CS2 enhancement software.",
-    "author_id": "Robica_17693503202124441673w6uWo",
+    "author_id": "Robica_1775342834169904300sbgvWa",
     "author": "Robica",
     "author_role": "owner",
     "type": "announcement",
@@ -18,23 +18,21 @@
       "developer",
       "staff"
     ],
-    "created_at": "2026-01-25T14:12:00.212450957Z",
-    "updated_at": "2026-01-25T14:12:00.212451007Z",
+    "created_at": "2026-04-05T01:47:14.1699043+03:00",
+    "updated_at": "2026-04-05T01:47:14.1699043+03:00",
     "views": 0,
     "replies": 0,
     "pinned": true,
     "likes": 0,
     "color": "#FF6B6B",
     "icon": "🎉",
-    "read_by": [
-      "Robica_17693503202124441673w6uWo"
-    ]
+    "read_by": []
   },
   {
-    "id": "1769350320212451067AXolv2",
+    "id": "1775342834169904300liRWiO",
     "title": "Version 1.0.0 Released",
     "content": "We're excited to announce the release of Paragon Systems v1.0.0! This minor update includes:\n\n• Velocity ESP\n• New Key binds system\n• Better performance optimization\n• Customizable UI Color\n\nDownload New Loader!",
-    "author_id": "Robica_17693503202124441673w6uWo",
+    "author_id": "Robica_1775342834169904300sbgvWa",
     "author": "Robica",
     "author_role": "owner",
     "type": "update",
@@ -50,76 +48,14 @@
       "developer",
       "premium"
     ],
-    "created_at": "2026-01-25T14:12:00.212451437Z",
-    "updated_at": "2026-01-25T14:12:00.212451497Z",
+    "created_at": "2026-04-05T01:47:14.1699043+03:00",
+    "updated_at": "2026-04-05T01:47:14.1699043+03:00",
     "views": 0,
     "replies": 0,
     "pinned": true,
     "likes": 0,
     "color": "#4ECDC4",
     "icon": "🚀",
-    "read_by": [
-      "Robica_17693503202124441673w6uWo"
-    ]
-  },
-  {
-    "id": "1770907328602418940LROAGd",
-    "title": "Version 1.0.1 Released",
-    "content": "• Keybind List\n• TriggerBot Entity fix",
-    "author_id": "Robica_17693503202124441673w6uWo",
-    "author": "Robica",
-    "author_role": "owner",
-    "type": "update",
-    "category": "Updates",
-    "tags": [],
-    "role_tags": [
-      "premium",
-      "user"
-    ],
-    "created_at": "2026-02-12T14:42:08.60242993Z",
-    "updated_at": "2026-02-12T14:42:08.60243001Z",
-    "views": 0,
-    "replies": 0,
-    "pinned": false,
-    "likes": 0,
-    "color": "#4ECDC4",
-    "icon": "🔄",
-    "read_by": [
-      "Robica_17693503202124441673w6uWo",
-      "1770502845830963537e7YwLX",
-      "1773866238383269084ZPhBnF",
-      "1774745549143202174RHzeHe"
-    ]
-  },
-  {
-    "id": "1774727722112391529RUAHSo",
-    "title": "Version 1.0.2 Released",
-    "content": "---Protection and menu Updates---\n\n• Added Kernel Driver Protection\n• Added New Menu\n\n---Enemy ESP Updates---\n\n• Fixed Bomb Timer\n• Added Sound ESP\n• Added ESP Preview\n\n---Triggerbot Updates---\n\n• Added Stop Check on Triggerbot\n• Added Scope Only on Triggerbot\n• Added Allow Corner Shoot on Triggerbot\n• Added Ignore Flash on Triggerbot\n\n---RCS Feature---\n\n• Added RCS with Yaw and Pitch\n\n---Aimbot Updates---\n\n• Added Start Bullet on Aimbot\n• Added Mini Fov on Aimbot\n• Added Only Auto on Aimbot\n\n---Misc Updates---\n\n• Added Spectator List\n• Added Hit Sound\n• Added Hit Markers\n• Added Bunny Hop\n• Added Fast Stop\n• Added Sniper Crosshair\n• Added Knfie Bot\n• Added Anti-Afk\n• Fixed Streamproof\n\n---Configs Added---\n\n• Config List\n• Config Name\n• Config Author",
-    "author_id": "Robica_17693503202124441673w6uWo",
-    "author": "Robica",
-    "author_role": "owner",
-    "type": "update",
-    "category": "Updates",
-    "tags": [],
-    "role_tags": [
-      "owner",
-      "admin",
-      "developer",
-      "staff",
-      "moderator",
-      "premium",
-      "user"
-    ],
-    "created_at": "2026-03-28T19:55:22.112397509Z",
-    "updated_at": "2026-03-28T19:55:22.112397569Z",
-    "views": 0,
-    "replies": 0,
-    "pinned": true,
-    "likes": 0,
-    "color": "#4ECDC4",
-    "icon": "🔄",
-    "read_by": [
-      "Robica_17693503202124441673w6uWo"
-    ]
+    "read_by": []
   }
 ]
