@@ -1,54 +1,28 @@
 {
   "messages": [
     {
-      "id": "17693503202124564276Oec3C",
-      "userId": "Robica_17693503202124441673w6uWo",
+      "id": "1775342834169904300Xefs33",
+      "userId": "Robica_1775342834169904300sbgvWa",
       "username": "Robica",
       "role": "owner",
       "content": "Welcome to the Paragon Systems community chat! Feel free to introduce yourself and ask questions.",
-      "timestamp": "2026-01-25T14:12:00.212456787Z",
-      "pinned": false,
+      "timestamp": "2026-04-05T01:47:14.1699043+03:00",
+      "pinned": true,
       "badges": [
         "founder"
-      ]
-    },
-    {
-      "id": "17715254454373436237S5H9I",
-      "userId": "Robica_17693503202124441673w6uWo",
-      "username": "Robica",
-      "role": "owner",
-      "content": "Hello",
-      "timestamp": "2026-02-19T18:24:05.437347913Z",
-      "pinned": false,
-      "badges": [
-        "founder"
-      ]
-    },
-    {
-      "id": "17715324963841320335GSLtb",
-      "userId": "17705024493272858124OJX1R",
-      "username": "Edi",
-      "role": "premium",
-      "content": "hello",
-      "timestamp": "2026-02-19T20:21:36.384138683Z",
-      "pinned": false,
-      "badges": [
-        "new",
-        "muted"
-      ]
-    },
-    {
-      "id": "1775304160660263320U5bSRE",
-      "userId": "1775304152644546882SSmguO",
-      "username": "bark for UwU",
-      "role": "user",
-      "content": "hi",
-      "timestamp": "2026-04-04T12:02:40.660269669Z",
-      "pinned": false,
-      "badges": [
-        "new"
       ]
     }
   ],
-  "pinned": null
+  "pinned": {
+    "id": "1775342834169904300Xefs33",
+    "userId": "Robica_1775342834169904300sbgvWa",
+    "username": "Robica",
+    "role": "owner",
+    "content": "Welcome to the Paragon Systems community chat! Feel free to introduce yourself and ask questions.",
+    "timestamp": "2026-04-05T01:47:14.1699043+03:00",
+    "pinned": true,
+    "badges": [
+      "founder"
+    ]
+  }
 }
