@@ -197,5 +197,18 @@
       "expires_at": "2026-05-04T12:03:47.480834954Z",
       "license_key": "Paragon-VCHPPDSFSF"
     }
+  },
+  {
+    "id": "1775342031385467000D2yk1O",
+    "username": "123",
+    "password_hash": "$2a$10$/yCcC.H7L1meAC5Jm5DVXeUlYG9zACRoDARZJ6YojO04ZA5dAKyLW",
+    "role": "user",
+    "created_at": "2026-04-05T01:33:51.385467+03:00",
+    "last_seen": "2026-04-05T01:33:51.385467+03:00",
+    "avatar_color": "#F72585",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
