@@ -210,5 +210,18 @@
     "badges": [
       "new"
     ]
+  },
+  {
+    "id": "1775342250929709000c8LjJE",
+    "username": "123456",
+    "password_hash": "$2a$10$lkONh4z3VGpmAGvP1Zjgre26jkrw48A3Nlr13WFYOt59V1x0CrFk2",
+    "role": "user",
+    "created_at": "2026-04-05T01:37:30.929709+03:00",
+    "last_seen": "2026-04-05T01:37:30.929709+03:00",
+    "avatar_color": "#FF6B6B",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
