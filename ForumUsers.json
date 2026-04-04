@@ -5,11 +5,24 @@
     "password_hash": "$2a$10$XGsUAoD.0MOTA3l7jJb/veqnxPLyyERnk7Tra9g0ps22LkMHN0jsS",
     "role": "owner",
     "created_at": "2026-04-05T01:47:14.1699043+03:00",
-    "last_seen": "2026-04-05T01:47:54.1489823+03:00",
+    "last_seen": "2026-04-05T01:53:46.7703778+03:00",
     "avatar_color": "#16171a",
     "status": "online",
     "badges": [
       "founder"
+    ]
+  },
+  {
+    "id": "17753430336115136005DFcqG",
+    "username": "123456",
+    "password_hash": "$2a$10$WpCpw2.zc8kBZfp.AXgXxegsFAEWrK9pB8zWJh6.AxzSswKOiwgrS",
+    "role": "user",
+    "created_at": "2026-04-05T01:50:33.6115136+03:00",
+    "last_seen": "2026-04-05T01:50:33.6115136+03:00",
+    "avatar_color": "#7209B7",
+    "status": "offline",
+    "badges": [
+      "new"
     ]
   }
 ]
