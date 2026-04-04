@@ -35,6 +35,18 @@
       "badges": [
         "founder"
       ]
+    },
+    {
+      "id": "1775344815271878592hE9BPk",
+      "userId": "1775344805765581735lHAi8y",
+      "username": "Edi",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-04-04T23:20:15.271884681Z",
+      "pinned": false,
+      "badges": [
+        "new"
+      ]
     }
   ],
   "pinned": null
