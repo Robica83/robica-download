@@ -20,5 +20,16 @@
     "creator": "Robica_1775343541971461400AECHHE",
     "user": "robica_sefu",
     "paused": null
+  },
+  "Paragon-YSY6BPGU8O": {
+    "id": "Paragon-YSY6BPGU8O",
+    "createdAt": "2026-04-05T17:41:30.566354627Z",
+    "expiresAt": "2026-05-05T17:41:29.61270223Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_1775343541971461400AECHHE",
+    "user": null,
+    "paused": null
   }
 }
