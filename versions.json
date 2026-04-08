@@ -1,6 +1,6 @@
 {
     "record": {
-        "usermode-ver": ["1.0.2"],
+        "usermode-ver": ["1.0.4"],
         "kernel-ver": ["2.5.8.1"],
         "launcher-ver": ["1.0.0.0"],
         "status": "undetected",
