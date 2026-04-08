@@ -36,14 +36,21 @@
     "id": "1775344805765581735lHAi8y",
     "username": "Edi",
     "password_hash": "$2a$10$y0ne9k/c6r84JSALWcGau.YNfAQyGfj.nJCPLWXMe9q/KkEyG/0Pm",
-    "role": "user",
+    "role": "premium",
     "created_at": "2026-04-04T23:20:05.765587495Z",
     "last_seen": "2026-04-04T23:20:05.765587555Z",
     "avatar_color": "#EF476F",
     "status": "online",
     "badges": [
       "new"
-    ]
+    ],
+    "premium": {
+      "has_premium": true,
+      "given_by": "Robica_1775343541971461400AECHHE",
+      "given_at": "2026-04-08T21:55:01.716736453Z",
+      "expires_at": "2126-03-15T21:55:01.716733472Z",
+      "license_key": "Paragon-FET51NBT0P"
+    }
   },
   {
     "id": "17753754305384830882w8bBt",
