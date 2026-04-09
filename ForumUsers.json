@@ -56,7 +56,7 @@
     "id": "17753754305384830882w8bBt",
     "username": "bark for UwU",
     "password_hash": "$2a$10$QbI79EsI/SHIM.OlPUgUyuDpXLYDsxs0uQgfNTKDDonL6UZS9dwj6",
-    "role": "premium",
+    "role": "user",
     "created_at": "2026-04-05T07:50:30.538489088Z",
     "last_seen": "2026-04-05T07:50:30.538489148Z",
     "avatar_color": "#7209B7",
@@ -65,11 +65,9 @@
       "new"
     ],
     "premium": {
-      "has_premium": true,
-      "given_by": "Robica_1775343541971461400AECHHE",
-      "given_at": "2026-04-05T12:21:51.185990005Z",
-      "expires_at": "2026-07-04T12:21:51.185986795Z",
-      "license_key": "Paragon-6JNABSEH9N"
+      "has_premium": false,
+      "given_at": "0001-01-01T00:00:00Z",
+      "expires_at": "0001-01-01T00:00:00Z"
     }
   },
   {
