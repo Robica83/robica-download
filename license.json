@@ -1,4 +1,15 @@
 {
+  "Paragon-3KRA3YZ5K1": {
+    "id": "Paragon-3KRA3YZ5K1",
+    "createdAt": "2026-04-09T17:33:45.802163569Z",
+    "expiresAt": "2126-03-16T17:33:44.547242547Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_1775343541971461400AECHHE",
+    "user": null,
+    "paused": null
+  },
   "Paragon-6JNABSEH9N": {
     "id": "Paragon-6JNABSEH9N",
     "createdAt": "2026-04-05T12:21:52.021488668Z",
