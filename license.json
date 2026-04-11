@@ -1,4 +1,15 @@
 {
+  "Paragon-JFB1Y81YPS": {
+    "id": "Paragon-JFB1Y81YPS",
+    "createdAt": "2026-04-11T23:37:02.506871028Z",
+    "expiresAt": "2126-03-18T23:37:01.508212449Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_1775343541971461400AECHHE",
+    "user": null,
+    "paused": null
+  },
   "Paragon-JO9KCI4D5Y": {
     "id": "Paragon-JO9KCI4D5Y",
     "createdAt": "2026-04-11T19:44:14.52683668Z",
