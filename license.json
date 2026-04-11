@@ -1,22 +1,13 @@
 {
-  "Paragon-1B3OPECOMK" : 
-  {
-    "createdAt" : "2026-04-09T19:18:41.08369373Z",
-    "creator" : "Robica_1775343541971461400AECHHE",
-    "expiresAt" : "2026-04-16T19:18:39.757940782Z",
-    "hwid" : "dcee6",
-    "id" : "Paragon-1B3OPECOMK",
-    "used" : true,
-    "user" : "raph_nix.11"
-  },
-  "Paragon-T0TNNBTAWG" : 
-  {
-    "createdAt" : "2026-04-09T20:17:17.070662333Z",
-    "creator" : "Robica_1775343541971461400AECHHE",
-    "expiresAt" : "2026-05-09T20:17:16.009039199Z",
-    "hwid" : "80691",
-    "id" : "Paragon-T0TNNBTAWG",
-    "used" : true,
-    "user" : "robica_sefu"
+  "Paragon-1B3OPECOMK": {
+    "id": "Paragon-1B3OPECOMK",
+    "createdAt": "2026-04-09T19:18:41.08369373Z",
+    "expiresAt": "2026-04-16T19:18:39.757940782Z",
+    "used": true,
+    "hwid": "dcee6",
+    "blacklist": null,
+    "creator": "Robica_1775343541971461400AECHHE",
+    "user": "raph_nix.11",
+    "paused": null
   }
 }
