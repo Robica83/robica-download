@@ -108,5 +108,18 @@
       "expires_at": "2126-04-04T19:20:43.063145824Z",
       "license_key": "Paragon-I4MOGFD9IX"
     }
+  },
+  {
+    "id": "1777404443532954742LzxdHO",
+    "username": "Leodelapascani",
+    "password_hash": "$2a$10$O/yXtP8GCLI8cJwkw5RxmOe8M3OskTgJPMCw7qaqrPRYo01cf4ceW",
+    "role": "user",
+    "created_at": "2026-04-28T19:27:23.532961472Z",
+    "last_seen": "2026-04-28T19:27:23.532961592Z",
+    "avatar_color": "#3A0CA3",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
