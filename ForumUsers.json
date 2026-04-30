@@ -113,7 +113,7 @@
     "id": "1777404443532954742LzxdHO",
     "username": "Leodelapascani",
     "password_hash": "$2a$10$O/yXtP8GCLI8cJwkw5RxmOe8M3OskTgJPMCw7qaqrPRYo01cf4ceW",
-    "role": "user",
+    "role": "premium",
     "created_at": "2026-04-28T19:27:23.532961472Z",
     "last_seen": "2026-04-28T19:27:23.532961592Z",
     "avatar_color": "#3A0CA3",
@@ -122,9 +122,11 @@
       "new"
     ],
     "premium": {
-      "has_premium": false,
-      "given_at": "0001-01-01T00:00:00Z",
-      "expires_at": "0001-01-01T00:00:00Z"
+      "has_premium": true,
+      "given_by": "Robica_1775343541971461400AECHHE",
+      "given_at": "2026-04-30T19:07:19.243130634Z",
+      "expires_at": "2126-04-06T19:07:19.243127654Z",
+      "license_key": "Paragon-J0CKV8JINP"
     }
   }
 ]
