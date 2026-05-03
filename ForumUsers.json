@@ -127,5 +127,18 @@
       "given_at": "0001-01-01T00:00:00Z",
       "expires_at": "0001-01-01T00:00:00Z"
     }
+  },
+  {
+    "id": "1777826266975452222TRG05f",
+    "username": "!Leo",
+    "password_hash": "$2a$10$2X79ztGOLwIndyoMEH0jfedNIiZLU6SoURnxdQ/0qv9p/CrV/zmuK",
+    "role": "user",
+    "created_at": "2026-05-03T16:37:46.975458302Z",
+    "last_seen": "2026-05-03T16:37:46.975458392Z",
+    "avatar_color": "#FF6B6B",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
