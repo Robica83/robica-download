@@ -147,5 +147,18 @@
       "expires_at": "2126-04-09T16:38:36.228075477Z",
       "license_key": "Paragon-3GOW1IKF7A"
     }
+  },
+  {
+    "id": "17779166326864321535xS9vC",
+    "username": "!Leo1",
+    "password_hash": "$2a$10$Mak6wN.Vltz5rlShiRxSSOEvHqh.BpR7XZQ2wQElVdM.8Ngcy9Rra",
+    "role": "user",
+    "created_at": "2026-05-04T17:43:52.686437874Z",
+    "last_seen": "2026-05-04T17:43:52.686437924Z",
+    "avatar_color": "#EF476F",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
