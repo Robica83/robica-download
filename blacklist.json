@@ -1,8 +1,15 @@
 [
   {
     "ip": "86.6.228.170",
-    "reason": "Ma ta + Mine",
+    "reason": "Ma ta + mine",
     "banned_at": "2026-05-03T10:15:30Z",
     "banned_by": "system"
+  },
+  {
+    "ip": "86.6.228.170",
+    "reason": "Atac ma ta"
+  },
+  {
+    "ip": "188.26.32.28"
   }
 ]
