@@ -32,6 +32,17 @@
     "user": "82345324",
     "paused": null
   },
+  "Paragon-CTYEAIMW5D": {
+    "id": "Paragon-CTYEAIMW5D",
+    "createdAt": "2026-05-08T12:58:35.004591633Z",
+    "expiresAt": "2026-05-15T12:58:34.024277912Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_1775343541971461400AECHHE",
+    "user": null,
+    "paused": null
+  },
   "Paragon-JFB1Y81YPS": {
     "id": "Paragon-JFB1Y81YPS",
     "createdAt": "2026-04-11T23:37:02.506871028Z",
