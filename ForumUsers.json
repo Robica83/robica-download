@@ -23,14 +23,21 @@
     "id": "1775343612894627400VE1sI1",
     "username": "testuser",
     "password_hash": "$2a$10$z6Sl6BP5xEzf716CUbYS6OJIafb27Kd2shmnmCGavkO0veNXKyxAC",
-    "role": "user",
+    "role": "premium",
     "created_at": "2026-04-05T02:00:12.8946274+03:00",
     "last_seen": "2026-04-05T02:00:50.3046887+03:00",
     "avatar_color": "#F72585",
     "status": "offline",
     "badges": [
       "new"
-    ]
+    ],
+    "premium": {
+      "has_premium": true,
+      "given_by": "Robica_1775343541971461400AECHHE",
+      "given_at": "2026-05-08T12:58:34.024281212Z",
+      "expires_at": "2026-05-15T12:58:34.024277912Z",
+      "license_key": "Paragon-CTYEAIMW5D"
+    }
   },
   {
     "id": "1775344805765581735lHAi8y",
