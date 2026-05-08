@@ -38,7 +38,7 @@
     "expiresAt": "2126-03-18T23:37:01.508212449Z",
     "used": true,
     "hwid": "80691",
-    "blacklist": null,
+    "blacklist": true,
     "creator": "Robica_1775343541971461400AECHHE",
     "user": "robica_sefu",
     "paused": null
