@@ -3,7 +3,7 @@
         "usermode-ver": ["1.3.0.0"],
         "kernel-ver": ["2.5.8.1"],
         "launcher-ver": ["1.0.0.0"],
-        "status": "undetected",
+        "status": "detected",
         "news-type": 0,
         "news": "Added seed triggerbot"
     },
