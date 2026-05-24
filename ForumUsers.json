@@ -172,5 +172,18 @@
       "expires_at": "2126-04-10T17:44:19.462205053Z",
       "license_key": "Paragon-2X4RC26A93"
     }
+  },
+  {
+    "id": "1779622015523342044AblIZW",
+    "username": "77buzz",
+    "password_hash": "$2a$10$bRlnKZAKMMf8oEi8oTID1.juKSxUcDUUx6FT94wvm03p9GJ.M7N7m",
+    "role": "user",
+    "created_at": "2026-05-24T11:26:55.523348255Z",
+    "last_seen": "2026-05-24T11:26:55.523348315Z",
+    "avatar_color": "#FFD166",
+    "status": "online",
+    "badges": [
+      "new"
+    ]
   }
 ]
