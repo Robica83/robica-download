@@ -53,5 +53,16 @@
     "creator": "Robica_1775343541971461400AECHHE",
     "user": "frunza0829",
     "paused": null
+  },
+  "Paragon-ZG80D6L5IN": {
+    "id": "Paragon-ZG80D6L5IN",
+    "createdAt": "2026-05-24T11:27:53.647847654Z",
+    "expiresAt": "2126-04-30T11:27:52.802779444Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_1775343541971461400AECHHE",
+    "user": null,
+    "paused": null
   }
 }
