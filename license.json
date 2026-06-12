@@ -1,15 +1,4 @@
 {
-  "Paragon-JFB1Y81YPS": {
-    "id": "Paragon-JFB1Y81YPS",
-    "createdAt": "2026-04-11T23:37:02.506871028Z",
-    "expiresAt": "2126-03-18T23:37:01.508212449Z",
-    "used": true,
-    "hwid": "80691",
-    "blacklist": null,
-    "creator": "Robica_1775343541971461400AECHHE",
-    "user": "robica_sefu",
-    "paused": null
-  },
   "Paragon-VRDCBSYB7V": {
     "id": "Paragon-VRDCBSYB7V",
     "createdAt": "2026-04-30T23:07:10.199514627Z",
