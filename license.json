@@ -9,5 +9,16 @@
     "creator": "Robica_1775343541971461400AECHHE",
     "user": "frunza0829",
     "paused": null
+  },
+  "Paragon-YXI9XS4XBE": {
+    "id": "Paragon-YXI9XS4XBE",
+    "createdAt": "2026-06-12T19:34:53.009092312Z",
+    "expiresAt": "2126-05-19T19:34:52.049655365Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_1775343541971461400AECHHE",
+    "user": null,
+    "paused": null
   }
 }
