@@ -1,15 +1,4 @@
 {
-  "Paragon-S9EB2B9VU6": {
-    "id": "Paragon-S9EB2B9VU6",
-    "createdAt": "2026-06-12T20:35:16.682919411Z",
-    "expiresAt": "2126-05-19T20:35:15.638561547Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "Robica_1775343541971461400AECHHE",
-    "user": null,
-    "paused": null
-  },
   "Paragon-VRDCBSYB7V": {
     "id": "Paragon-VRDCBSYB7V",
     "createdAt": "2026-04-30T23:07:10.199514627Z",
