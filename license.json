@@ -1,4 +1,15 @@
 {
+  "Paragon-1KKW2QULOZ": {
+    "id": "Paragon-1KKW2QULOZ",
+    "createdAt": "2026-06-13T12:19:17.875744691Z",
+    "expiresAt": "2026-07-13T12:19:16.914829138Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_1775343541971461400AECHHE",
+    "user": null,
+    "paused": null
+  },
   "Paragon-VRDCBSYB7V": {
     "id": "Paragon-VRDCBSYB7V",
     "createdAt": "2026-04-30T23:07:10.199514627Z",
