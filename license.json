@@ -10,6 +10,17 @@
     "user": "raph_nix.11",
     "paused": null
   },
+  "Paragon-SCNCSWSPYF": {
+    "id": "Paragon-SCNCSWSPYF",
+    "createdAt": "2026-06-29T03:51:11.222773474Z",
+    "expiresAt": "2126-06-05T03:51:10.3094727Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "Robica_1775343541971461400AECHHE",
+    "user": null,
+    "paused": null
+  },
   "Paragon-VRDCBSYB7V": {
     "id": "Paragon-VRDCBSYB7V",
     "createdAt": "2026-04-30T23:07:10.199514627Z",
