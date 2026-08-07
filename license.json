@@ -1,13 +1,13 @@
 {
   "External-3650-WVBAF58F6X": {
-    "username": "",
-    "password": "",
-    "hwid": null,
-    "used": false,
-    "user": "",
+    "blacklist": false,
     "createdAt": "2026-08-04T20:34:11",
     "expiresAt": "2036-08-01T20:34:11",
-    "blacklist": false,
-    "id": "External-3650-WVBAF58F6X"
+    "hwid": "80691",
+    "id": "External-3650-WVBAF58F6X",
+    "password": "sefu",
+    "used": true,
+    "user": "robica_sefu",
+    "username": "admin"
   }
 }
