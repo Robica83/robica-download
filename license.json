@@ -1,13 +1,13 @@
 {
-  "PARAGON-2026-ADMIN-001": {
-    "username": "admin",
-    "password": "sefu",
-    "hwid": "",
+  "External-3650-WVBAF58F6X": {
+    "username": "",
+    "password": "",
+    "hwid": "a0686",
     "used": false,
     "user": "",
-    "expiresAt": "2027-12-31T23:59:59",
-    "days": 365,
+    "createdAt": "2026-08-04T20:34:11",
+    "expiresAt": "2036-08-01T20:34:11",
     "blacklist": false,
-    "id": "PARAGON-2026-ADMIN-001"
+    "id": "External-3650-WVBAF58F6X",
   }
 }
