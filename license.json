@@ -1,15 +1,13 @@
 {
-  "admin": {
-    "id": "admin",
+  "PARAGON-2026-ADMIN-001": {
     "username": "admin",
     "password": "sefu",
-    "createdAt": "2026-07-05T16:17:42.033Z",
-    "expiresAt": "2036-07-02T16:17:42.033Z",
+    "hwid": "",
     "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "",
     "user": "",
-    "paused": null
+    "expiresAt": "2027-12-31T23:59:59",
+    "days": 365,
+    "blacklist": false,
+    "id": "PARAGON-2026-ADMIN-001"
   }
 }
