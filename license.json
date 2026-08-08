@@ -1,13 +1,12 @@
 {
-  "Paragon-EVMXUVYF9N": {
-    "id": "Paragon-EVMXUVYF9N",
-    "createdAt": "2026-08-08T00:33:52.627248145Z",
-    "expiresAt": "2126-07-15T00:33:51.743890913Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "Robica_1775343541971461400AECHHE",
-    "user": null,
-    "paused": null
+  "Paragon-EVMXUVYF9N" : 
+  {
+    "createdAt" : "2026-08-08T00:33:52.627248145Z",
+    "creator" : "Robica_1775343541971461400AECHHE",
+    "expiresAt" : "2126-07-15T00:33:51.743890913Z",
+    "hwid" : "1cee6",
+    "id" : "Paragon-EVMXUVYF9N",
+    "used" : true,
+    "user" : "patrickrege."
   }
 }
