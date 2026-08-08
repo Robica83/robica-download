@@ -8,5 +8,19 @@
     "id" : "Paragon-EVMXUVYF9N",
     "used" : true,
     "user" : "patrickrege."
+  },
+  {
+  "admin": {
+    "id": "admin",
+    "username": "admin",
+    "password": "sefu",
+    "createdAt": "2026-07-05T16:17:42.033Z",
+    "expiresAt": "2036-07-02T16:17:42.033Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "",
+    "user": "",
+    "paused": null
   }
 }
