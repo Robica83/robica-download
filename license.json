@@ -14,9 +14,9 @@
     "createdAt" : "2026-08-08T00:33:52.627248145Z",
     "creator" : "Robica_1775343541971461400AECHHE",
     "expiresAt" : "2126-07-15T00:33:51.743890913Z",
-    "hwid" : null,
+    "hwid" : "80691",
     "id" : "Paragon-EVMXUVYF9X",
-    "used" : false,
-    "user" : ""
+    "used" : true,
+    "user" : "robica_sefu"
   }
 }
