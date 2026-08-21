@@ -7,9 +7,9 @@
     "expiresAt": "2036-07-02T16:17:42.033Z",
     "used": false,
     "hwid": null,
-    "blacklist": null,
+    "blacklist": false,
     "creator": "",
     "user": "",
-    "paused": null
+    "paused": false
   }
 }
