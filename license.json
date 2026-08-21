@@ -1,15 +1,15 @@
 {
   "paragon": {
-    "id": "paragon",
-    "username": "",
-    "password": "",
-    "createdAt": "2026-07-05T16:17:42.033Z",
-    "expiresAt": "2036-07-02T16:17:42.033Z",
-    "used": false,
-    "hwid": null,
     "blacklist": false,
+    "createdAt": "2026-07-05T16:17:42.033Z",
     "creator": "",
-    "user": "",
-    "paused": false
+    "expiresAt": "2036-07-02T16:17:42.033Z",
+    "hwid": "1cee6",
+    "id": "paragon",
+    "password": "Pat23rick",
+    "paused": false,
+    "used": true,
+    "user": "patrickrege.",
+    "username": "usertragepafrunte"
   }
 }
