@@ -13,9 +13,7 @@
     "username": "usertragepafrunte"
   },
   "paragons": {
-    "bannedDate": 1788121365,
-    "bannedReason": "Anti-crack protection triggered",
-    "blacklist": true,
+    "blacklist": false,
     "createdAt": "2026-07-05T16:17:42.033Z",
     "creator": "",
     "expiresAt": "2056-07-02T16:17:42.033Z",
