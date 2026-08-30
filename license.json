@@ -13,7 +13,7 @@
     "username": "usertragepafrunte"
   },
   "paragons": {
-    "blacklist": false,
+    "blacklist": true,
     "createdAt": "2026-07-05T16:17:42.033Z",
     "creator": "",
     "expiresAt": "2056-07-02T16:17:42.033Z",
