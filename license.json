@@ -1,4 +1,17 @@
 {
+  "Paragon-dwahjdadw6hd6": {
+    "blacklist": false,
+    "createdAt": "2026-07-05T16:17:42.033Z",
+    "creator": "",
+    "expiresAt": "2056-07-02T16:17:42.033Z",
+    "hwid": "dcee6",
+    "id": "Paragon-dwahjdadw6hd6",
+    "password": "1245",
+    "paused": false,
+    "used": true,
+    "user": "Neger1",
+    "username": "Neger1"
+  },
   "paragon": {
     "blacklist": false,
     "createdAt": "2026-07-05T16:17:42.033Z",
@@ -24,18 +37,5 @@
     "used": true,
     "user": "robica_sefu",
     "username": "Robica"
-  },
-  "Paragon-dwahjdadw6hd6": {
-    "blacklist": false,
-    "createdAt": "2026-07-05T16:17:42.033Z",
-    "creator": "",
-    "expiresAt": "2056-07-02T16:17:42.033Z",
-    "hwid": null,
-    "id": "Paragon-dwahjdadw6hd6",
-    "password": "",
-    "paused": false,
-    "used": false,
-    "user": "",
-    "username": ""
   }
 }
