@@ -25,16 +25,16 @@
     "user": "robica_sefu",
     "username": "Robica"
   },
-  "test": {
+  "Paragon-dwahjdadw6hd6": {
     "blacklist": false,
     "createdAt": "2026-07-05T16:17:42.033Z",
     "creator": "",
     "expiresAt": "2056-07-02T16:17:42.033Z",
-    "hwid": "0c72c",
-    "id": "test",
+    "hwid": null,
+    "id": "Paragon-dwahjdadw6hd6",
     "password": "",
     "paused": false,
-    "used": true,
+    "used": false,
     "user": "",
     "username": ""
   }
