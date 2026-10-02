@@ -43,12 +43,12 @@
     "createdAt": "2026-07-05T16:17:42.033Z",
     "creator": "",
     "expiresAt": "2056-07-02T16:17:42.033Z",
-    "hwid": "a0605",
+    "hwid": "",
     "id": "piciuuu",
-    "password": "piciu224",
+    "password": "",
     "paused": false,
-    "used": true,
-    "user": "piciu442",
-    "username": "piciu442"
+    "used": false,
+    "user": "",
+    "username": ""
   }
 }
