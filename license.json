@@ -73,7 +73,7 @@
     "id": "zeed",
     "password": "pula mare",
     "paused": false,
-    "used": true,
+    "used": false,
     "user": "zeedwyd",
     "username": "zeedwyd"
   }
