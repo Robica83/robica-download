@@ -25,20 +25,6 @@
     "user": "patrickrege.",
     "username": "usertragepafrunte"
   },
-
-  "zeed": {
-    "blacklist": false,
-    "createdAt": "2026-07-05T16:17:42.033Z",
-    "creator": "",
-    "expiresAt": "2036-07-02T16:17:42.033Z",
-    "hwid": null,
-    "id": "zeed",
-    "password": "",
-    "paused": false,
-    "used": false,
-    "user": "",
-    "username": ""
-  },
   "paragons": {
     "blacklist": false,
     "createdAt": "2026-07-05T16:17:42.033Z",
@@ -77,5 +63,18 @@
     "used": true,
     "user": "piciu",
     "username": "piciu"
+  },
+  "zeed": {
+    "blacklist": false,
+    "createdAt": "2026-07-05T16:17:42.033Z",
+    "creator": "",
+    "expiresAt": "2036-07-02T16:17:42.033Z",
+    "hwid": "a0686",
+    "id": "zeed",
+    "password": "pula mare",
+    "paused": false,
+    "used": true,
+    "user": "zeedwyd",
+    "username": "zeedwyd"
   }
 }
