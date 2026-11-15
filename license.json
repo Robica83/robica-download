@@ -1,4 +1,17 @@
 {
+  "12345": {
+    "blacklist": false,
+    "createdAt": "2026-07-05T16:17:42.033Z",
+    "creator": "",
+    "expiresAt": "2036-07-02T16:17:42.033Z",
+    "hwid": "8cee4",
+    "id": "12345",
+    "password": "Parola12#",
+    "paused": false,
+    "used": true,
+    "user": "BRATAN",
+    "username": "BRATAN"
+  },
   "Paragon-dwahjdadw6hd6": {
     "blacklist": false,
     "createdAt": "2026-07-05T16:17:42.033Z",
@@ -24,19 +37,6 @@
     "used": true,
     "user": "patrickrege.",
     "username": "usertragepafrunte"
-  },
-  "12345": {
-    "blacklist": false,
-    "createdAt": "2026-07-05T16:17:42.033Z",
-    "creator": "",
-    "expiresAt": "2036-07-02T16:17:42.033Z",
-    "hwid": null,
-    "id": "12345",
-    "password": "",
-    "paused": false,
-    "used": false,
-    "user": "",
-    "username": ""
   },
   "paragons": {
     "blacklist": false,
