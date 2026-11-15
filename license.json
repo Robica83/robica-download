@@ -25,6 +25,20 @@
     "user": "patrickrege.",
     "username": "usertragepafrunte"
   },
+
+  "zeed": {
+    "blacklist": false,
+    "createdAt": "2026-07-05T16:17:42.033Z",
+    "creator": "",
+    "expiresAt": "2036-07-02T16:17:42.033Z",
+    "hwid": null,
+    "id": "zeed",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "paragons": {
     "blacklist": false,
     "createdAt": "2026-07-05T16:17:42.033Z",
