@@ -108,11 +108,11 @@
     "createdAt": "2026-07-05T16:17:42.033Z",
     "creator": "",
     "expiresAt": "2056-07-02T16:17:42.033Z",
-    "hwid": null,
+    "hwid": "80e32",
     "id": "test12345",
     "password": "Mario_2012",
     "paused": false,
-    "used": false,
+    "used": true,
     "user": "fortasteaua",
     "username": "fortasteaua"
   },
