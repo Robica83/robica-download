@@ -112,7 +112,7 @@
     "id": "test12345",
     "password": "Mario_2012",
     "paused": false,
-    "used": true,
+    "used": false,
     "user": "fortasteaua",
     "username": "fortasteaua"
   },
