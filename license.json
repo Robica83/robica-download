@@ -95,13 +95,13 @@
     "createdAt": "2026-07-05T16:17:42.033Z",
     "creator": "",
     "expiresAt": "2056-07-02T16:17:42.033Z",
-    "hwid": null,
+    "hwid": "b0e13",
     "id": "test123",
-    "password": "",
+    "password": "ROTIBOSSROBRUN223",
     "paused": false,
-    "used": false,
-    "user": "",
-    "username": ""
+    "used": true,
+    "user": "ROTI223",
+    "username": "ROTI223"
   },
   "zeed": {
     "blacklist": false,
