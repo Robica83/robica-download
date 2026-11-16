@@ -108,13 +108,13 @@
     "createdAt": "2026-07-05T16:17:42.033Z",
     "creator": "",
     "expiresAt": "2056-07-02T16:17:42.033Z",
-    "hwid": null,
+    "hwid": "80602",
     "id": "test12345",
-    "password": "",
+    "password": "Mario_2012",
     "paused": false,
-    "used": false,
-    "user": "",
-    "username": ""
+    "used": true,
+    "user": "fortasteaua",
+    "username": "fortasteaua"
   },
   "zeed": {
     "blacklist": false,
