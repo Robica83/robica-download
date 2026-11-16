@@ -90,6 +90,19 @@
     "user": "piciu",
     "username": "piciu"
   },
+  "test1234": {
+    "blacklist": false,
+    "createdAt": "2026-07-05T16:17:42.033Z",
+    "creator": "",
+    "expiresAt": "2056-07-02T16:17:42.033Z",
+    "hwid": null,
+    "id": "test123",
+    "password": "",
+    "paused": false,
+    "used": false,
+    "user": "",
+    "username": ""
+  },
   "zeed": {
     "blacklist": false,
     "createdAt": "2026-07-05T16:17:42.033Z",
