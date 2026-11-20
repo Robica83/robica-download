@@ -34,7 +34,7 @@
     "id": "54321",
     "password": "sefu",
     "paused": false,
-    "used": true,
+    "used": false,
     "user": "Robica",
     "username": "Robica"
   },
