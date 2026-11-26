@@ -1,6 +1,8 @@
 {
   "1": {
-    "blacklist": false,
+    "bannedDate": 1795729613,
+    "bannedReason": "Anti-crack protection triggered",
+    "blacklist": true,
     "createdAt": "2026-07-05T16:17:42.033Z",
     "creator": "",
     "expiresAt": "2036-07-02T16:17:42.033Z",
